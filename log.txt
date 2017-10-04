@@ -1563,3 +1563,818 @@ status
 status
 help
 help
+spotify chasing colors
+spotify-this-song chasing colors
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:3:20
+The song CHASING COLORS (FEAT. NOAH CYRUS) is by the artist MARSHMELLO
+The song appears on the album CHASING COLORS (FEAT. NOAH CYRUS)
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/9da94fa6093992ec8f80278809311f2d3186ba33?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:3:30
+The song CHASING COLORS (FEAT. NOAH CYRUS) is by the artist MARSHMELLO
+The song appears on the album CHASING COLORS (FEAT. NOAH CYRUS)
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/9da94fa6093992ec8f80278809311f2d3186ba33?cid=6efecb35f43b4d9cb327658373d85422
+
+start
+init
+random
+random
+random
+random
+random
+random
+rando-------- Log Entry --------
+Wed Oct 04 2017 16:06:30 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+random
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 16:06:54 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 16:06:57 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 16:06:59 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 16:07:01 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+init
+status
+prompt
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+Log entry created on 4/10/2017 @ 16:39:11
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:39:17
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:39:24
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:39:28
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:39:37
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:39:41 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:39:47 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Miami Beach
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:39:55 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Orlando, FL
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:40:00 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 100
+Here I go...
+prompt
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+Log entry created on 4/10/2017 @ 16:40:7
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+help-------- Log Entry --------
+Wed Oct 04 2017 16:40:32 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+get-tweets
+tweets
+tweets
+tweets worldvaporexpo
+tweets _devmark
+nodejs
+vaporb2b
+tweets worldvaporexpo
+tweets
+prompt
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:42:11
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:42:16
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:42:25
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:42:28
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:42:36
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:42:39 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:42:46 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Miami Beach
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:42:51 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Orlando, Fl
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:43:07 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Orlando, FL
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:43:14 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 10002
+Here I go...
+prompt
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:43:21
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+init
+prompt
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:43:39
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:43:45
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:43:51
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:43:56
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:44:2
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:44:06 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:44:13 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Miami
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:44:18 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 12342
+Here I go...
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:44:27 GMT-0400 (Eastern Daylight Time)
+User used weather() searching Orlando, FL
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:44:38
+The song WISH YOU WERE HERE is by the artist PINK FLOYD
+The song appears on the album WISH YOU WERE HERE
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2bf994?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 16:44:45
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+init
+status
+about
+help-------- Log Entry --------
+Wed Oct 04 2017 16:46:13 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+get-tweets
+get-tweets
+spotify
+spotify-this-song
+spotify-this-song money pink floyd
+spotify money pink floyd
+get-tweets
+get-tweets worldvaporexpo
+spotify-this-song
+spotify-this-song money pink floyd
+init
+prompt
+ 
+Log entry created on 4/10/2017 @ 16:51:4
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+status
+init
+movie-this
+movie-this guardians of the galaxy
+status
+init
+help
+init
+status
+about
+init
+status
+init
+about
+status
+init
+prompt-------- Log Entry --------
+Wed Oct 04 2017 16:57:43 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1233
+Here I go...
+status
+status
+init
+status
+init-------- Log Entry --------
+Wed Oct 04 2017 16:58:56 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1233
+Here I go...
+count-to 1233
+init
+status
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 16:59:21 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+radom
+random
+random-------- Log Entry --------
+Wed Oct 04 2017 16:59:32 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+init
+status-------- Log Entry --------
+Wed Oct 04 2017 16:59:59 GMT-0400 (Eastern Daylight Time)
+User used weather() searching miami
+
+get-weather miami
+get-tweets worldvaporexpo
+my-tweets
