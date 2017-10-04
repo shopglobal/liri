@@ -24,7 +24,10 @@ Understanding the need for User Input loop, how-to do it (I did it, you can too!
    <code>
 /~ node liri movie movie name is really long
 	</code>
-The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
+The input's matter, to your code, and we handle this carefully by implementing the following loop: 
+
+# for
+Take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3.
 <code>
 
 for (l=3; l < nodeArgs.length; l++){
