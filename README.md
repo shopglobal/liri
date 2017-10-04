@@ -12,16 +12,36 @@ The [COMMAND] is what you command LIRI to do, and the [ARGUMENTS] are the parame
 pass to LIRI to get what you are looking for. The [ARGUMENTS] will change determined by user input based on what you are
 looking for, or trying to do. 
 
+# Breaking down the Code
+Let's setup a couple of Global Enviornment Variables. 
 Let's take a look at the processes in Node which handle these queries for the app. . . 
 process.argv = user inputs
 
+//start listening to user inputs in the state
+<code>var nodeArgs = process.argv;</code>
+
+//create an array for user inputs
+<code>var argArray = [];</code>
+
+//assign commands and titles from user inputs
+<code>
+  var command = nodeArray[2];
+	var input = [];
+</code>
+
+Establish user input as length of all of the arguments, determined by the user input which is needed for a proper query with Request.
+To do this, we must loop through the user inputs like so; 
+<code>for(k=3; k < nodeArray.length; k++){
+    input.push(nodeArray[k]);
+}</code>
+
 Understanding the need for User Input loop, how-to do it (I did it, you can too!) and the reason for it, is the below illustration:
- 
+
 # boolean
  Take this string of numbers for example, look at the boolean value of each integer and then think of the remainder as > your favorite number. 
  (ex. the index you need for your code to function)
-<code>0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
-</code>
+
+<code>0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3</code>
 
 # command
 
@@ -32,39 +52,10 @@ The input's matter, to your code, and we handle this carefully by implementing t
 
 # for
 Take a look at this quick for loop I created which takes in user inputs, and establishes origin to a predefined index of 3. Which is where the important user input is located:
-<code>
-
-for (l=3; l < nodeArgs.length; l++){
+<code>for (l=3; l < nodeArgs.length; l++){
 argArray.push(nodeArgs[l]);
-} 
+}</code>
 
-</code>
-
-# Breaking down the Code
-Let's setup a couple of Global Enviornment Variables. 
-//start listening to user inputs in the state
-<code>var nodeArgs = process.argv;</code>
-
-//create an array for user inputs
-<code>var argArray = [];</code>
-
-//assign commands and titles from user inputs
-<code>
-
-	var command = nodeArray[2];
-	var input = [];
-
-</code>
-
-Establish user input, and determined by the user input which is needed for a proper query with Request.
-To do this, we must loop through the user inputs like so; 
-<code>
-
-	for(k=3; k < nodeArray.length; k++){
-    input.push(nodeArray[k]);
-}
-
-</code>
 
 # Installation
 Clone this repository:
