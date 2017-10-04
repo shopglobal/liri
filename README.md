@@ -13,11 +13,17 @@ Let's take a look at the processes in Node which handle these queries for the ap
 process.argv = user inputs
 
 Understanding the need for User Input loop, how-to do it (I did it, you can too!) and the reason for it, is the below illustration:
-Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number.  
- <code> boolean
-  | 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
+ 
+# boolean
+ Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number. 
+ <code> 
+ 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
+  </code>
+
+# command 
+   <code>
 /~ node liri movie movie name is really long
-</code>
+	</code>
 The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
 <code>
 	for(l=3; l<nodeArgs.length; l++){
