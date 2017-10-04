@@ -1,1 +1,275 @@
 ﻿
+tweets
+tweets-by-------- Log Entry --------
+Wed Oct 04 2017 17:31:31 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter-------- Log Entry --------
+Wed Oct 04 2017 17:31:36 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:31:45 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:34:08 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:34:25 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:34:49 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:34:51 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:06 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:09 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:32 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:34 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:39 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:46 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:35:53 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:36:37 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 17:36:41 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:37:10 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:38:09 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 17:38:18 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:39:05 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:40:07 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 17:40:36 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+prompt
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 17:43:7
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 17:43:11
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 17:43:18
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 17:43:21
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 17:43:28
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 17:43:32
+The movie title is THE MATRIX
+The film was released in 1999
+It's IMBD Rating is 8.7
+The film was produced in USA
+The film's language is English
+The plot of the movie is A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors in the movie include Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Official Website is http://www.whatisthematrix.com
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 17:43:36 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 17:43:40 GMT-0400 (Eastern Daylight Time)
+User used weather() searching miami beach
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 17:43:45 GMT-0400 (Eastern Daylight Time)
+User used weather() searching orlando, lf
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 17:43:52 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1001
+Here I go...
+init
+status
+kill
+init
+help
+start-------- Log Entry --------
+Wed Oct 04 2017 17:44:18 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies
+spotify-this-song
+movie-this
+movie-this matrix-------- Log Entry --------
+Wed Oct 04 2017 17:44:47 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies matrix
+song money pink floyd
+tweets worldvaporexpo
+tweets-------- Log Entry --------
+Wed Oct 04 2017 17:45:10 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter-------- Log Entry --------
+Wed Oct 04 2017 17:45:18 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter worldvaporexpo
+status
+stop
+ini
+init
+status

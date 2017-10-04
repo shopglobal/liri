@@ -304,21 +304,26 @@ You can listen to ${song} here - ${url}`);
 
 
 function getMovie(){
-  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
-  // var movie = input;
+fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
+for (var input = 3; input < movieParam.length; input++){
+        if(input > 3 && input < movieParam.length){
+        movieName = movieName + "+" + movieParam[input];
+        console.log(chalk.red("____________________________________"));
+        console.log(chalk.red("------------------------------------"));
+        console.log(chalk.red("this is movieName " + movieName));
+    }   
+        else{
+        movieName += movieParam[input];
+        }
+    }
+        var movie = movieName
+
         if (!movie){
             movie = "Mr Nobody";
         }
-        else {
-            var movie = movieObj;
-        }
-        
-        if (!movie_title){
-            movie_title = "Mr Nobody";
-        }
-        console.log(movie);
+        console.log(chalk.blue(movie));
         var movie_url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=40e9cece"
-        console.log(movie_url)
+        console.log(chalk.blue(movie_url));
             url = movie_url;
             request(movie_url, function(error, response, body){
 
