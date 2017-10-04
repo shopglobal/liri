@@ -5,9 +5,12 @@ movies, define words, check the weather, and check your twitter feed. I will be 
 later on. But enjoy your experience with LIRI.
 Here is how to use LIRI:
 ---------------------------------------------------------------------------------------------------
-You can always ask LIRI for help at: node liri.js help
-Learn more about LIRI with the following command: node liri.js about
-Check the status of your LIRI version at: node liri.js status
+You can always ask LIRI for help at:
+#/~  node liri.js help
+Learn more about LIRI with the following command: 
+#/~ node liri.js about
+Check the status of your LIRI version at:
+#/~  node liri.js status
 
 When you run the liri.js file using the console. 
 You just have to type the following into the terminal:
