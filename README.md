@@ -12,7 +12,7 @@ looking for.
 Let's take a look at the processes in Node which handle these queries for the app. . . 
 process.argv = user inputs
 
-Understanding the loop, and the reason for it, is the below illustration:
+Understanding the need for User Input loop, how-to do it (I did it, you can too!) and the reason for it, is the below illustration:
 Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number.  
  <code> boolean
   | 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
