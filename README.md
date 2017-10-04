@@ -23,8 +23,8 @@ You just have to type the following into the terminal:
 # /~ node liri.js get-weather <ARGUMENTS>
 # /~ node liri.js count-to <ARGUMENTS>
 # /~ node liri.js do-what-it-says
-The <ACTION> is what you need LIRI to do, and the <ARGUMENTS> are the parameters that you need to 
-pass to LIRI to get what you are looking for. The <ARGUMENTS> will change determine on what you are
+The [ACTION] is what you need LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
+pass to LIRI to get what you are looking for. The [ARGUMENTS] will change determine on what you are
 looking for.
 Examples:
 # /~ node liri.js get-tweets
