@@ -431,3 +431,1133 @@ The song appears on the album THE DARK SIDE OF THE MOON
 To preview on Spotify, command+click the link below: 
 
 https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+-------- Log Entry --------
+Wed Oct 04 2017 01:54:15 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: The Sign
+---As I scoured the intrawebs, here is what I found---
+The song The Sign was performed by Harry Styles.
+Harry Styles released this song on the album "Sign of the Times".
+You can listen to The Sign here - https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6efecb35f43b4d9cb327658373d85422
+-------- Log Entry --------
+Wed Oct 04 2017 01:54:59 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching undefined undefined
+-------- Log Entry --------
+Wed Oct 04 2017 01:55:55 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+-------- Log Entry --------
+Wed Oct 04 2017 01:56:11 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+If I am wrong dont blame me, I have a guy and weather.service.msn.com. You may have heard of him, his name is Ehpeaeye.
+  Anyways, he told me that in Miami, FL, they checked the weather there at 01:35:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 82
+            Humidity: 79
+        Current Wind: 21 mph East
+-------- Log Entry --------
+Wed Oct 04 2017 01:57:03 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 01:57:12 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians and here is what I have found:
+Guardians (NOT RATED) was released in 2009.
+This movie was released in USA in English and featured Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney.
+A quick plot of the film is:
+  Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Critic Ratings for Guardians:
+  IMDB: 2.9/10
+  Rotten Tomatoes: We were too lazy to even watch this movie.
+To learn more about this film you can visit 
+  N/A
+-------- Log Entry --------
+Wed Oct 04 2017 01:59:54 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians and here is what I have found:
+Guardians (NOT RATED) was released in 2009.
+This movie was released in USA in English and featured Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney.
+A quick plot of the film is:
+  Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Critic Ratings for Guardians:
+  IMDB: 2.9/10
+  Rotten Tomatoes: We were too lazy to even watch this movie.
+To learn more about this film you can visit 
+  N/A
+-------- Log Entry --------
+Wed Oct 04 2017 02:00:17 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians and here is what I have found:
+Guardians of the Galaxy (PG-13) was released in 2014.
+This movie was released in USA, UK in English and featured Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel.
+A quick plot of the film is:
+  A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Critic Ratings for Guardians of the Galaxy:
+  IMDB: 8.1/10
+  Rotten Tomatoes: 91%
+To learn more about this film you can visit 
+  http://marvel.com/guardians
+-------- Log Entry --------
+Wed Oct 04 2017 02:01:31 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians,of,the,galaxy and here is what I have found:
+Guardians of the Galaxy (PG-13) was released in 2014.
+This movie was released in USA, UK in English and featured Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel.
+A quick plot of the film is:
+  A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Critic Ratings for Guardians of the Galaxy:
+  IMDB: 8.1/10
+  Rotten Tomatoes: 91%
+To learn more about this film you can visit 
+  http://marvel.com/guardians
+-------- Log Entry --------
+Wed Oct 04 2017 02:12:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+If I am wrong dont blame me, I have a guy and weather.service.msn.com. You may have heard of him, his name is Ehpeaeye.
+  Anyways, he told me that in Miami, FL, they checked the weather there at 01:45:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 82
+            Humidity: 79
+        Current Wind: 21 mph East
+-------- Log Entry --------
+Wed Oct 04 2017 02:12:11 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1000
+Here I go...For my awesome math skills, you now owe me a penny for each count. You think programming me was cheap?
+  Let's see here... 
+  Since I did 1000 calculations, you now owe me $10.
+  I have not been integrated with a credit card machine, Apple Pay, Google Pay, or Venmo API's yet, so I only accept cash.
+  Sorry for the inconvenience.
+-------- Log Entry --------
+Wed Oct 04 2017 02:12:38 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: money pink floyd
+---As I scoured the intrawebs, here is what I found---
+The song money pink floyd was performed by Pink Floyd.
+Pink Floyd released this song on the album "The Dark Side of the Moon".
+You can listen to money pink floyd here - https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+-------- Log Entry --------
+Wed Oct 04 2017 02:13:04 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:13:47 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:15:06 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:15:11 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:15:46 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:15:59 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians and here is what I have found:
+Guardians (NOT RATED) was released in 2009.
+This movie was released in USA in English and featured Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney.
+A quick plot of the film is:
+  Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Critic Ratings for Guardians:
+  IMDB: 2.9/10
+  Rotten Tomatoes: We were too lazy to even watch this movie.
+To learn more about this film you can visit 
+  N/A
+-------- Log Entry --------
+Wed Oct 04 2017 02:16:05 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for guardians,of,the,galaxy and here is what I have found:
+Guardians of the Galaxy (PG-13) was released in 2014.
+This movie was released in USA, UK in English and featured Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel.
+A quick plot of the film is:
+  A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Critic Ratings for Guardians of the Galaxy:
+  IMDB: 8.1/10
+  Rotten Tomatoes: 91%
+To learn more about this film you can visit 
+  http://marvel.com/guardians
+-------- Log Entry --------
+Wed Oct 04 2017 02:16:33 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:17:03 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:17:22 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:17:48 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:17:51 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+
+do movie
+do movies guardians-------- Log Entry --------
+Wed Oct 04 2017 02:31:32 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:32:01 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:33:07 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:33:21 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:34:14 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:34:20 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+
+ 
+Log entry created on 4/10/2017 @ 2:35:31
+The song I WANT IT THAT WAY is by the artist BACKSTREET BOYS
+The song appears on the album THE HITS--CHAPTER ONE
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6efecb35f43b4d9cb327658373d85422
+
+help
+about
+movie-------- Log Entry --------
+Wed Oct 04 2017 02:36:15 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movie-this-------- Log Entry --------
+Wed Oct 04 2017 02:37:03 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movie-this
+movie-this-------- Log Entry --------
+Wed Oct 04 2017 02:37:09 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 02:38:09 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galazy-------- Log Entry --------
+Wed Oct 04 2017 02:38:13 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:39:35 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+movie-this guardians of the galaxy
+prompt
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 2:41:52
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+stary
+start
+start
+start-------- Log Entry --------
+Wed Oct 04 2017 02:43:26 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+start
+start
+start
+start
+start
+start-------- Log Entry --------
+Wed Oct 04 2017 02:46:09 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+If I am wrong dont blame me, I have a guy and weather.service.msn.com. You may have heard of him, his name is Ehpeaeye.
+  Anyways, he told me that in Miami, FL, they checked the weather there at 02:30:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 81
+            Humidity: 80
+        Current Wind: 18 mph Northeast
+
+start
+start-------- Log Entry --------
+Wed Oct 04 2017 02:47:32 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 02:49:15 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+tweets-------- Log Entry --------
+Wed Oct 04 2017 02:50:25 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+tweets
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+start
+start
+start
+start
+start
+start
+start
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+random
+movie-this guardians-------- Log Entry --------
+Wed Oct 04 2017 03:01:53 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians-------- Log Entry --------
+Wed Oct 04 2017 03:05:20 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians-------- Log Entry --------
+Wed Oct 04 2017 03:05:45 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians
+tweets-------- Log Entry --------
+Wed Oct 04 2017 03:06:44 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+tweetss
+about
+help
+my-tweets
+my-tweets
+my-tweets
+movie-this
+movie
+movie guardians of the galaxy
+song
+song
+song money pink floyd
+random
+do-what-it-says
+do-what-it-says
+do-what-it-says
+do-what-it-says
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:26:54 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:28:38 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:28:43 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:28:57 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:29:12 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:29:19 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:29:29 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:29:45 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says
+do-what-it-says
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:30:35 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:30:55 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:01 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:07 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:24 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:44 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:48 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:31:53 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:32:05 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:33:01 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 03:33:40 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:36:50 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:36:50 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:36:59 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:36:59 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:37:04 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:37:04 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:37:34 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:37:34 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:37:36 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:37:36 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:37:42 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 03:37:42 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:38:21 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:38:23 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:38:30 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:38:58 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:02 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:04 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:06 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:18 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:20 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:39:37 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+rando-------- Log Entry --------
+Wed Oct 04 2017 03:40:38 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+rando
+prompt
+prompt
+prompt
+prompt-------- Log Entry --------
+Wed Oct 04 2017 03:43:03 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 3:43:30
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 3:43:44
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 3:45:14
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 3:46:0
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 3:46:38
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+start
+start
+start
+start
+start
+start-------- Log Entry --------
+Wed Oct 04 2017 03:50:13 GMT-0400 (Eastern Daylight Time)
+User used weather() searching miami
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:50:24 GMT-0400 (Eastern Daylight Time)
+User used weather() searching orlando
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:50:43 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:50:58 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:51:55 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 3:54:2
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt
+start-------- Log Entry --------
+Wed Oct 04 2017 03:56:03 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:56:46 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:59:11 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 03:59:25 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start
+start-------- Log Entry --------
+Wed Oct 04 2017 04:02:13 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 04:02:30 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 04:03:36 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 04:03:53 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 04:04:25 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+start-------- Log Entry --------
+Wed Oct 04 2017 04:04:59 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+prompt
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:11:35 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 4:14:43
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 4:16:26
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+prompt
+prompt
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:19:38 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 2323
+Here I go...
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:19:52 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 123
+Here I go...
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:23:19 GMT-0400 (Eastern Daylight Time)
+User used weather() searching undefined
+
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:23:45 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 238
+Here I go...
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:23:50 GMT-0400 (Eastern Daylight Time)
+User used weather() searching miami
+
+help
+help
+prompt-------- Log Entry --------
+Wed Oct 04 2017 04:25:25 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 121
+Here I go...
+count-to 121
+help
+get-weather miami-------- Log Entry --------
+Wed Oct 04 2017 04:25:54 GMT-0400 (Eastern Daylight Time)
+User used weather() searching miami
+
+get-weather miami-------- Log Entry --------
+Wed Oct 04 2017 04:27:50 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:28:16 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:28:29 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:29:05 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 04:29:58 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:30:25 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 04:30:36 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:30:48 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:30:59 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:31:21 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:32:07 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:32:29 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:32:58 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:34:45 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:35:30 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:36:08 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:37:03 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:37:33 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:37:50 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy
+help
+do-what-it-says
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 04:40:04 GMT-0400 (Eastern Daylight Time)
+User used song()
+-------- Log Entry --------
+Wed Oct 04 2017 04:40:04 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+do-what-it-says-------- Log Entry --------
+Wed Oct 04 2017 04:40:24 GMT-0400 (Eastern Daylight Time)
+User used song()
+
+help
+spotify-this-song money pink floyd
+help-------- Log Entry --------
+Wed Oct 04 2017 04:41:09 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 12324
+Here I go...
+count 12324
+help
+get-tweets
+get-tweets
+get-tweets vaporb2b
+get-tweets worldvaporexpo-------- Log Entry --------
+Wed Oct 04 2017 04:42:07 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+get-tweets worldvaporexpo-------- Log Entry --------
+Wed Oct 04 2017 04:42:20 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+get-tweets
+my-tweets-------- Log Entry --------
+Wed Oct 04 2017 04:42:56 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:43:19 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 04:43:49 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 04:44:45 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 04:44:49 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies-------- Log Entry --------
+Wed Oct 04 2017 04:45:27 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies
+movies-------- Log Entry --------
+Wed Oct 04 2017 04:47:20 GMT-0400 (Eastern Daylight Time)
+User used movie()
+-------- Log Entry --------
+Wed Oct 04 2017 04:48:06 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:48:42 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies guardians of the galaxy-------- Log Entry --------
+Wed Oct 04 2017 04:48:44 GMT-0400 (Eastern Daylight Time)
+User used movie()
+
+movies
+help
+prompt
+ 
+Log entry created on 4/10/2017 @ 4:49:11
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 4:49:16
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+song
+song chasing colors
+tweets-------- Log Entry --------
+Wed Oct 04 2017 04:50:03 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter
+about
+help
+about
+status
+status
+status
