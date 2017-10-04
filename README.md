@@ -1,9 +1,13 @@
 [![Build Status](https://travis-ci.org/shopglobal/liri.svg?branch=master)](https://travis-ci.org/shopglobal/liri)
+
+
+<code>
     ___      _    __          __ 
    / (_)____(_)  / /_  ____  / /_
   / / / ___/ /  / __ \/ __ \/ __/
  / / / /  / /  / /_/ / /_/ / /_  
 /_/_/_/  /_/  /_.___/\____/\__/  
+</code>
 
 Current Version: 1.0.3 
 
