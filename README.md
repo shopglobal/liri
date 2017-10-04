@@ -47,7 +47,7 @@ Understanding the need for User Input loop, how-to do it (I did it, you can too!
 
  Take this LIRI command for example and look at the value of the first input which matters to your code:
 
-<code>==/~ 0  _    1____2_______3_____>3_____>3_____>3 =====>>>>>  </code>
+<code>==/~ 0  _    1____2_______3_____>3____>3____>3 =====>>>>>  </code>
 
 
 <code>/~ node liri movie "really long movie title"</code>
