@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shopglobal/liri.svg?branch=master)](https://travis-ci.org/shopglobal/liri)
+
 Help README
 ---------------------------------------------------------------------------------------------------
 LIRI is similar to CORTANA or SIRI in the fact that it can find out information for you. You can check out the latest information about your favorite songs, 
