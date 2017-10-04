@@ -4,7 +4,7 @@
   "description": "Liri - A Command Line Utility. Useful for running quick commands and accessing data. Like SIRI, yet cross-platform. You give LIRI commands, and LIRI gives you data. ",
   "main": "liri.js",
   "scripts": {
-    "test": "movie-this guardians of the galaxy"
+    "test": "node liri prompt"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/shopglobal/liri#readme",
   "dependencies": {
+    "chalk": "^2.1.0",
     "fs": "0.0.1-security",
     "inquirer": "^3.3.0",
     "node-spotify-api": "^1.0.7",
