@@ -69,9 +69,10 @@ Install dependancies
 Run liri with node app, or node liri
 <code>node app [commands] [argumentsLoop]</code>
 For example
-<code>node liri movies the matrix</code>
-<code>node liri song money pink floyd</code>
-<code>node liri get-weather miami</code>
+<code>node liri tweets [username]</code>
+<code>node liri movies [movie Name]</code>
+<code>node liri song [song Name]</code>
+<code>node liri get-weather [name of place]</code>
 
 # Getting Started:
 # /~ node liri.js init
