@@ -46,6 +46,7 @@ Understanding the need for User Input loop, how-to do it (I did it, you can too!
 # command
 
  Take this LIRI command for example and look at the value of the first input which matters to your code:
+======/~ -0  - 1  -  2  -  3  -  >3  - >3  - >3 =====>>>>>  
 
 <code>/~ node liri movie "really long movie title"</code>
 
