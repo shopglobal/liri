@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/shopglobal/liri.svg?branch=master)](https://travis-ci.org/shopglobal/liri)
 
 
-<ore>
+<pre>
     ___      _    __          __ 
    / (_)____(_)  / /_  ____  / /_
   / / / ___/ /  / __ \/ __ \/ __/
