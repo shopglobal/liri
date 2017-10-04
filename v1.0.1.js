@@ -5,7 +5,7 @@ var inquire = inquirer;
 var weather = require("weather-js");
 const chalk = require("chalk");
 
-var Keys = require('./key.js');
+var Keys = require('./keys.js');
 
 var myArgs = process.argv[2];
 var keyword = process.argv[2];
