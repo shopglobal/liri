@@ -26,9 +26,12 @@ Understanding the need for User Input loop, how-to do it (I did it, you can too!
 	</code>
 The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
 <code>
-	for(l=3; l<nodeArgs.length; l++){
-    argArray.push(nodeArgs[l]);
-}; </code>
+
+for (l=3; l < nodeArgs.length; l++){
+argArray.push(nodeArgs[l]);
+} 
+
+</code>
 
 # Step-by-step
 Let's setup a couple of Global Enviornment Variables. 
@@ -39,14 +42,21 @@ Let's setup a couple of Global Enviornment Variables.
 <code>var argArray = [];</code>
 
 //assign commands and titles from user inputs
-<code>var command = nodeArray[2];
-var input = [];</code>
+<code>
+
+	var command = nodeArray[2];
+	var input = [];
+
+</code>
 
 Establish user input, and determine what input is needed for a proper query with Request.
 To do this, we must loop through the user inputs like so; 
-<code>for(k=3; k<nodeArray.length; k++){
+<code>
+
+	for(k=3; k < nodeArray.length; k++){
     input.push(nodeArray[k]);
-};
+}
+
 </code>
 
 
