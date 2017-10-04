@@ -40,7 +40,7 @@ argArray.push(nodeArgs[l]);
 
 </code>
 
-# Step-by-step
+# Breaking down the Code
 Let's setup a couple of Global Enviornment Variables. 
 //start listening to user inputs in the state
 <code>var nodeArgs = process.argv;</code>
@@ -66,6 +66,17 @@ To do this, we must loop through the user inputs like so;
 
 </code>
 
+# Installation
+Clone this repository:
+<code>git clone https://github.com/shopglobal/liri.git</code>
+Install dependancies
+<code>npm install</code>
+Run liri with node app, or node liri
+<code>node app [commands] [argumentsLoop]</code>
+For example
+<code>node liri movies the matrix</code>
+<code>node liri song money pink floyd</code>
+<code>node liri get-weather miami</code>
 
 # Getting Started:
 # /~ node liri.js init

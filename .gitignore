@@ -1,6 +1,9 @@
 # API Keys
 keys.js
 
+# Published folder 
+published/
+
 # Logs
 logs
 *.log
