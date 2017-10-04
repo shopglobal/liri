@@ -1561,3 +1561,4 @@ about
 status
 status
 status
+help
