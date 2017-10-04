@@ -14,7 +14,7 @@
     "LIRI",
     "CLI"
   ],
-  "author": "Mark Allen Evans",
+  "author": "Mark Allen Evans <evansmark.work@gmail.com> (https://github.com/shopglobal)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shopglobal/liri/issues"

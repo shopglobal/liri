@@ -4,7 +4,6 @@ var inquirer = require("inquirer");
 var inquire = inquirer;
 var weather = require("weather-js");
 const chalk = require("chalk");
-
 var Keys = require('./keys.js');
 
 var myArgs = process.argv[2];
@@ -78,7 +77,9 @@ for(l=3; l<nodeArgs.length; l++){
 
 switch(command){
   case "twitter":
-  // case "myTwitter":
+  case "get-tweets":
+  case "tweetss":
+  case "myTwitter":
   // case "my-tweets":
     getTweets();
     break;
@@ -99,7 +100,6 @@ switch(command){
     getMovie(value);
     break;
   case "rando":
-  case "random":
   case "randomThis":
   case "random-this":
   // case "do-what-it-says":
@@ -131,13 +131,8 @@ switch(command){
     status();
     break;    
   case "start":
-  case "init":
-    init();
+    prompt();
     break;
-  case "stop":
-  case "kill":
-    terminate();
-    break;    
   case "setup":
     setup();
     break;
@@ -184,7 +179,6 @@ function about(){
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version 1.0.3")}
 ${chalk.blue("  -by Mark Evans")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri")}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
@@ -205,35 +199,7 @@ ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")}
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 `); // end chalk board
-} // end status()
-function init(){
-  console.log(
-`
-${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
-${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: Initialized")}
-${chalk.red("       ___      _    __          __ ")} 
-${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
-${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
-${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
-${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-`); // end chalk board
-} // end init()
-function terminate(){
-  console.log(
-`
-${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
-${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: Processes terminated")}
-${chalk.red("       ___      _    __          __ ")} 
-${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
-${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
-${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
-${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-`); // end chalk board
-} // end terminate()
+} // end about()
 function log(input){
   console.log(chalk.green(input));
   fs.appendFile("logs.txt",(input + `\n`));
@@ -287,7 +253,6 @@ var spotify = new Spotify({
         console.log(chalk.green("Preview Link: " + data.tracks.items[0].preview_url));
         console.log(chalk.green("Track: " + data.tracks.items[0].external_urls.spotify));
       var response = data.tracks.items[0];
-
       var artist = response.artists[0].name;
       var title = response.name;
       var album = response.album.name;
@@ -302,28 +267,22 @@ You can listen to ${song} here - ${url}`);
 // end spotifySong()
 }
 
-
 function getMovie(){
-fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
-for (var input = 3; input < movieParam.length; input++){
-        if(input > 3 && input < movieParam.length){
-        movieName = movieName + "+" + movieParam[input];
-        console.log(chalk.red("____________________________________"));
-        console.log(chalk.red("------------------------------------"));
-        console.log(chalk.red("this is movieName " + movieName));
-    }   
-        else{
-        movieName += movieParam[input];
-        }
-    }
-        var movie = movieName
-
+  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
+  // var movie = input;
         if (!movie){
             movie = "Mr Nobody";
         }
-        console.log(chalk.blue(movie));
+        else {
+            var movie = movieObj;
+        }
+        
+        if (!movie_title){
+            movie_title = "Mr Nobody";
+        }
+        console.log(movie);
         var movie_url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=40e9cece"
-        console.log(chalk.blue(movie_url));
+        console.log(movie_url)
             url = movie_url;
             request(movie_url, function(error, response, body){
 
@@ -518,20 +477,6 @@ Keys.get('statuses/user_timeline', params, function(error, tweets, response){
         }
     })
 }
-if (myArgs == "get-tweets"){
-Keys.get('statuses/user_timeline', params, function(error, tweets, response){
-        if (error) {
-            console.log(error);
-        } else{
-            for (var t = 0; t < tweets.length; t++){
-                console.log(chalk.green("Tweet: " + tweets[t].text));
-                console.log(chalk.green("Created at: " + tweets[t].created_at));
-            }
-            
-            //console.log(tweets.text)
-        }
-    })
-}
 if(myArgs == "spotify"){
 
 for (var i = 3; i < songParam.length; i++){
@@ -556,7 +501,6 @@ var spotify = new Spotify({
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
-        console.log(chalk.red(data.tracks));
         console.log(chalk.green("Album: " + data.tracks.items[0].album.name)); 
         console.log(chalk.green("Artist: " + data.tracks.items[0].artists[0].name));
         console.log(chalk.green("Song: " + data.tracks.items[0].name));
@@ -1068,21 +1012,6 @@ if(myArgs == "do-what-it-says"){
         }
     })
 }
-
-// if(argumentArray == "do-what-it-says"){
-//     fs.readFile("random.txt", "utf8", function(error, data){
-//         if(error){
-//             throw error;
-//         } else {
-//             var dataArray = data.split(",");
-//             if (dataArray[0] === 'spotify-this-song') {
-//                 songName = dataArray[1];
-//                 console.log(dataArray[1]);
-//                 getSpotify();
-//             }
-//         }
-//     })
-// }
 
 // function prompt(){
 //   inquire
