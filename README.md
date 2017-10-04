@@ -5,9 +5,43 @@ movies, define words, check the weather, and check your twitter feed. I will be 
 later on. But enjoy your experience with LIRI.
 Here is how to use LIRI:
 ---------------------------------------------------------------------------------------------------
-The [ACTION] is what you need LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
+The [COMMAND] is what you command LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
 pass to LIRI to get what you are looking for. The [ARGUMENTS] will change determine on what you are
-looking for.
+looking for. 
+
+Let's take a look at the processes in Node which handle these queries for the app. . . 
+process.argv = user inputs
+
+The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
+Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number.  
+   # 0 # 1 # 2 # 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
+/~ node liri movie movie name is really long
+<code>
+	for(l=3; l<nodeArgs.length; l++){
+    argArray.push(nodeArgs[l]);
+}; </code>
+
+# Step-by-step
+Let's setup a couple of Global Enviornment Variables. 
+//start listening to user inputs in the state
+<code>var nodeArgs = process.argv;</code>
+
+//create an array for user inputs
+<code>var argArray = [];</code>
+
+//assign commands and titles from user inputs
+<code>var command = nodeArray[2];
+var input = [];</code>
+
+Establish user input, and determine what input is needed for a proper query with Request.
+To do this, we must loop through the user inputs like so; 
+<code>for(k=3; k<nodeArray.length; k++){
+    input.push(nodeArray[k]);
+};
+</code>
+
+
+
 Examples:
 # /~ node liri.js get-tweets
   This will return your last 20 tweets that you have tweeted.
@@ -29,8 +63,7 @@ Check the status of your LIRI version at:
 
 When you run the liri.js file using the console. 
 You just have to type the following into the terminal:
-
-# /~ node liri.js <ACTION> <ARGUMENTS>
+# /~ node liri.js (COMMAND) (ARGUMENT)	
 # /~ node liri.js prompt
 # /~ node liri.js my-tweets
 # /~ node liri.js spotify-this-song <ARGUMENTS>
