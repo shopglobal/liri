@@ -12,9 +12,9 @@ Check the status of your LIRI version at: node liri.js status
 When you run the liri.js file using the console. 
 You just have to type the following into the terminal:
 
-node liri.js <ACTION> <ARGUMENTS>
-node liri.js prompt
-node liri.js my-tweets
+# node liri.js <ACTION> <ARGUMENTS>
+# node liri.js prompt
+# node liri.js my-tweets
 node liri.js spotify-this-song <ARGUMENTS>
 node liri.js movie-this <ARGUMENTS>
 node liri.js get-weather <ARGUMENTS>
