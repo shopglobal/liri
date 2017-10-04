@@ -14,8 +14,8 @@ process.argv = user inputs
 
 The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
 Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number.  
- <code>
-   # 0 # 1 # 2 # 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
+ <code> boolean
+  | 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
 /~ node liri movie movie name is really long
 </code>
 <code>
