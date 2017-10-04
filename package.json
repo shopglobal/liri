@@ -1,0 +1,28 @@
+{
+  "name": "liri-js",
+  "version": "1.0.1",
+  "description": "Liri - A Command Line Utility. Useful for running quick commands and accessing data. Like SIRI, yet cross-platform. You give LIRI commands, and LIRI gives you data. ",
+  "main": "liri.js",
+  "scripts": {
+    "test": "movie-this guardians of the galaxy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopglobal/liri.git"
+  },
+  "keywords": [
+    "LIRI",
+    "CLI"
+  ],
+  "author": "Mark Allen Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shopglobal/liri/issues"
+  },
+  "homepage": "https://github.com/shopglobal/liri#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
