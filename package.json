@@ -4,7 +4,7 @@
   "description": "Liri - A Command Line Utility. Useful for running quick commands and accessing data. Like SIRI, yet cross-platform. You give LIRI commands, and LIRI gives you data. ",
   "main": "liri.js",
   "scripts": {
-    "test": "node liri prompt"
+    "test": "node liri tweets"
   },
   "repository": {
     "type": "git",
