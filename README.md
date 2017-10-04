@@ -18,15 +18,16 @@ process.argv = user inputs
 Understanding the need for User Input loop, how-to do it (I did it, you can too!) and the reason for it, is the below illustration:
  
 # boolean
- Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number. 
- <code> 
- 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
-  </code>
+ Take this string of numbers for example, look at the boolean value of each integer and then think of the remainder as > your favorite number. 
+ (ex. the index you need for your code to function)
+<code>0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
+</code>
 
-# command 
-   <code>
-/~ node liri movie movie name is really long
-	</code>
+# command
+
+ Take this LIRI command for example and look at the value of the first input which matters to your code:
+
+<code>/~ node liri movie "really long movie title"</code>
 The input's matter, to your code, and we handle this carefully by implementing the following loop: 
 
 # for
