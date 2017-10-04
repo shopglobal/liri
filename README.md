@@ -1,8 +1,8 @@
 Help README
 ---------------------------------------------------------------------------------------------------
-LIRI is similar to SIRI in the fact that it can find out information for you. You can check songs, 
-movies, define words, check the weather, and check your twitter feed. I will be adding more skills 
-later on. But enjoy your experience with LIRI.
+LIRI is similar to CORTANA or SIRI in the fact that it can find out information for you. You can check out the latest information about your favorite songs, 
+look into your favorite movies by searching the name, define words, check the weather, and check out all the latest posts from the twitter feed.  
+Enjoy your experience with LIRI.
 Here is how to use LIRI:
 ---------------------------------------------------------------------------------------------------
 The [COMMAND] is what you command LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
