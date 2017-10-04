@@ -1,6 +1,7 @@
+# Build Status
 [![Build Status](https://travis-ci.org/shopglobal/liri.svg?branch=master)](https://travis-ci.org/shopglobal/liri)
 
-
+# LIRI BOT
 <pre>
     ___      _    __          __ 
    / (_)____(_)  / /_  ____  / /_
