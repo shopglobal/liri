@@ -427,18 +427,19 @@ var lookup = {
           }
           // console.log(JSON.stringify(data, null, 2));    //test prints the full Spotify return JSON object
           for (var i = 0; i < data.tracks.items.length; i++) {
-            var songWrite =
+            song = data.tracks.items[0];
+            var songLog =
               "\nThe song " +
-              data.tracks.items[0].name.toUpperCase() +
+              song.name.toUpperCase() +
               " is by the artist " +
-              data.tracks.items[0].artists[0].name.toUpperCase() +
+              song.artists[0].name.toUpperCase() +
               "\nThe song appears on the album " +
-              data.tracks.items[0].album.name.toUpperCase() +
+              song.album.name.toUpperCase() +
               "\nTo preview on Spotify, command+click the link below: \n\n" +
-              data.tracks.items[0].preview_url +
+              song.preview_url +
               "\n";
-            console.log(songWrite);
-            lookup.log("\n \n" + lookup.logTime + songWrite);
+            console.log(songLog);
+            lookup.log("\n \n" + lookup.logTime + songLog);
           }
         });
       },
@@ -455,26 +456,27 @@ var lookup = {
           "&y=&plot=short&apikey=40e9cece";
         request(queryURL, function(error, response, body) {
           if (!error && response.statusCode === 200) {
-            var filmWrite =
+            movie = JSON.parse(body);
+            var movieLog =
               "\nThe movie title is " +
-              JSON.parse(body).Title.toUpperCase() +
+              movie.Title.toUpperCase() +
               "\nThe film was released in " +
-              JSON.parse(body).Year +
+              movie.Year +
               "\nIt's IMBD Rating is " +
-              JSON.parse(body).imdbRating +
+              movie.imdbRating +
               "\nThe film was produced in " +
-              JSON.parse(body).Country +
+              movie.Country +
               "\nThe film's language is " +
-              JSON.parse(body).Language +
+              movie.Language +
               "\nThe plot of the movie is " +
-              JSON.parse(body).Plot +
+              movie.Plot +
               "\nActors in the movie include " +
-              JSON.parse(body).Actors +
+              movie.Actors +
               "\nOfficial Website is " +
-              JSON.parse(body).Website +
+              movie.Website +
               "\n";
-            console.log(filmWrite);
-            lookup.log("\n \n" + lookup.logTime + filmWrite);
+            console.log(movieLog);
+            lookup.log("\n \n" + lookup.logTime + movieLog);
             // console.log(response);   logs full JSON response
           }
         });
