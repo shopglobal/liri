@@ -12,12 +12,13 @@ looking for.
 Let's take a look at the processes in Node which handle these queries for the app. . . 
 process.argv = user inputs
 
-The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
+Understanding the loop, and the reason for it, is the below illustration:
 Take this LIRI command for example, look at the boolean value of each integer and then think of the remainder as > your favorite number.  
  <code> boolean
   | 0 > 1 > 2 > 3 > 3 > 3 > 3 > 3 > 3 > 3 > 3
 /~ node liri movie movie name is really long
 </code>
+The input's matter, take a look at this quick for loop which takes in user inputs, and establishes origin to a predefined index of 3. 
 <code>
 	for(l=3; l<nodeArgs.length; l++){
     argArray.push(nodeArgs[l]);
