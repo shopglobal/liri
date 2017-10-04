@@ -319,6 +319,9 @@ switch(keyword){
 
     }
     
+    if(!myArgs) {
+        myArgs = "prompt";
+    }
 if(myArgs == "prompt") {
     //-------- Prompt user for input-------------------------------------------------
 
@@ -356,7 +359,6 @@ inquirer
     var action = user.whichAction;
     var currentdate = new Date(); // used to set date information when writing to log.txt
 
-    //--------------- lookup-ACTION OBJECT----------------------------------------------
 
 var lookup = {
       //--------------Logging to log.txt---------------------
@@ -488,7 +490,7 @@ var lookup = {
           lookup[action]();
         });
       }
-}; // End of lookup-Action object
+}; // End of lookup object
 
     //-----------------query the lookup Object with the action property selected by user---------
 
