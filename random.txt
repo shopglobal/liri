@@ -1,1 +1,1 @@
-spotify-this-song, 'I want it that way'
+Get Information about a song from Spotify, 'I want it that way'

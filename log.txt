@@ -1,19 +1,379 @@
+﻿
+prompt
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
 
-tweewts
-tweets
-mobie
-movie
-movie guardians of the galaxy
-movie-this guardians of the galaxy
-random
-do-what-it-says
-do-what-it-says
-do-what-it-says
-do-what-it-says
-do-what-it-says
-do-what-it-says sd
-movie guardians of the galaxy
-spotify
-movie
-tweets
-my-tweets
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 0:56:34
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+prompt
+ 
+Log entry created on 4/10/2017 @ 0:57:29
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 0:57:36
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 0:59:41
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:1:0
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:2:29
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt
+prompt
+prompt
+prompt
+prompt
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:7:47
+The song I WANT IT THAT WAY is by the artist BACKSTREET BOYS
+The song appears on the album THE HITS--CHAPTER ONE
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:8:19
+The song I WANT IT THAT WAY is by the artist BACKSTREET BOYS
+The song appears on the album THE HITS--CHAPTER ONE
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 1:31:24
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:31:35
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:31:41
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:31:46
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:31:53
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+prompt
+ 
+Log entry created on 4/10/2017 @ 1:31:57
+The song I WANT IT THAT WAY is by the artist BACKSTREET BOYS
+The song appears on the album THE HITS--CHAPTER ONE
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 1:38:38
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet

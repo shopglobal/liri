@@ -21,7 +21,10 @@
   },
   "homepage": "https://github.com/shopglobal/liri#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0",
     "node-spotify-api": "^1.0.7",
+    "prompt": "^1.0.0",
     "request": "^2.83.0",
     "twitter": "^1.7.1"
   }

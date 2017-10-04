@@ -1,5 +1,6 @@
 var request = require("request");
 var fs = require('fs');
+var inquirer = require("inquirer");
 var Keys = require('./keys.js');
 
 var myArgs = process.argv[2];
@@ -44,7 +45,6 @@ function titleConcat(input){
             temp = temp + " " + input[j].trim();
         };
     return temp.trim();
-    console.log(temp);
     }
 };
 
@@ -319,10 +319,186 @@ switch(keyword){
 
     }
     
+if(myArgs == "prompt") {
+    //-------- Prompt user for input-------------------------------------------------
+
+inquirer
+  .prompt([
+    {
+      type: "list",
+      message: "Please select",
+      choices: [
+        "Read Mark Evans Tweets",
+        "Get Information about a song from Spotify",
+        "Get information about a movie from OMDB",
+        "Trigger a Random Reaction"
+      ],
+      name: "whichAction"
+    },
+    {
+      type: "input",
+      message: "Enter the name of a song: ",
+      name: "song",
+      when: function(answers) {
+        return answers.whichAction === "Get Information about a song from Spotify";
+      }
+    },
+    {
+      type: "input",
+      message: "Please enter the name of a movie: ",
+      name: "movie",
+      when: function(answers) {
+        return answers.whichAction === "Get information about a movie from OMDB";
+      }
+    }
+  ])
+  .then(function(user) {
+    var action = user.whichAction;
+    var currentdate = new Date(); // used to set date information when writing to log.txt
+
+    //--------------- lookup-ACTION OBJECT----------------------------------------------
+
+var lookup = {
+      //--------------Logging to log.txt---------------------
+
+      logTime:
+        "Log entry created on " +
+        currentdate.getDate() +
+        "/" +
+        (currentdate.getMonth() + 1) +
+        "/" +
+        currentdate.getFullYear() +
+        " @ " +
+        currentdate.getHours() +
+        ":" +
+        currentdate.getMinutes() +
+        ":" +
+        currentdate.getSeconds(),
+
+      log: function(thingToLog) {
+        fs.appendFile("log.txt", thingToLog, function(error) {
+          if (error) console.log("error");
+        });
+      },
+
+      //----------------- TWITTER ----------------------------
+
+      "Read Mark Evans Tweets": function() {
+        var params = { screen_name: "_devmark", count: "20" };
+        Keys.get("statuses/user_timeline", params, function(error, tweets) {
+          if (!error) {
+            for (var i = 0; i < tweets.length; i++) {
+              console.log("\n" + tweets[i].created_at);
+              console.log(tweets[i].text + "\n");
+              lookup.log(
+                "\n" +
+                  lookup.logTime +
+                  "\n" +
+                  "Posted on " +
+                  tweets[i].created_at +
+                  "\n" +
+                  tweets[i].text +
+                  "\n"
+              );
+            }
+          }
+        });
+      },
+
+      //----------------- SPOTIFY ----------------------------
+
+      "Get Information about a song from Spotify": function() {
+        var spotify = new Spotify({
+            id: '6efecb35f43b4d9cb327658373d85422',
+            secret: '3fd0f14a7f454af4888311b0a7689167'
+        });        
+        if (!user.song) {
+          user.song = "THE SIGN ace of base";
+        }
+        spotify.search({ type: "track", query: user.song, limit: 1 }, function(
+          err,
+          data
+        ) {
+          if (err) {
+            console.log("Error occurred" + err);
+            return;
+          }
+          // console.log(JSON.stringify(data, null, 2));    //test prints the full Spotify return JSON object
+          for (var i = 0; i < data.tracks.items.length; i++) {
+            var songWrite =
+              "\nThe song " +
+              data.tracks.items[0].name.toUpperCase() +
+              " is by the artist " +
+              data.tracks.items[0].artists[0].name.toUpperCase() +
+              "\nThe song appears on the album " +
+              data.tracks.items[0].album.name.toUpperCase() +
+              "\nTo preview on Spotify, command+click the link below: \n\n" +
+              data.tracks.items[0].preview_url +
+              "\n";
+            console.log(songWrite);
+            lookup.log("\n \n" + lookup.logTime + songWrite);
+          }
+        });
+      },
+
+      //----------------- OMDB ----------------------------
+
+      "Get information about a movie from OMDB": function() {
+        if (!user.movie) {
+          user.movie = "Mr. Nobody";
+        }
+        var queryURL =
+          "http://www.omdbapi.com/?t=" +
+          user.movie +
+          "&y=&plot=short&apikey=40e9cece";
+        request(queryURL, function(error, response, body) {
+          if (!error && response.statusCode === 200) {
+            var filmWrite =
+              "\nThe movie title is " +
+              JSON.parse(body).Title.toUpperCase() +
+              "\nThe film was released in " +
+              JSON.parse(body).Year +
+              "\nIt's IMBD Rating is " +
+              JSON.parse(body).imdbRating +
+              "\nThe film was produced in " +
+              JSON.parse(body).Country +
+              "\nThe film's language is " +
+              JSON.parse(body).Language +
+              "\nThe plot of the movie is " +
+              JSON.parse(body).Plot +
+              "\nActors in the movie include " +
+              JSON.parse(body).Actors +
+              "\nOfficial Website is " +
+              JSON.parse(body).Website +
+              "\n";
+            console.log(filmWrite);
+            lookup.log("\n \n" + lookup.logTime + filmWrite);
+            // console.log(response);   logs full JSON response
+          }
+        });
+      },
+
+      //----------------- RANDOM ----------------------------
+
+      "Trigger a Random Reaction": function() {
+        fs.readFile("random.txt", "UTF8", function(error, data) {
+          data = data.split(",");
+          action = data[0];
+          user.song = data[1];
+          lookup[action]();
+        });
+      }
+}; // End of lookup-Action object
+
+    //-----------------query the lookup Object with the action property selected by user---------
+
+    lookup[action]();
+  });
+}
 
 var colors = require("colors/safe");
 var prompt = require('prompt'); 
-if(myArgs == "prompt"){
+if(myArgs == "fly"){
     prompt.message = colors.rainbow("Question!");
     prompt.delimiter = colors.green("><");
         
@@ -373,26 +549,8 @@ prompt.get(schema, function (err, result) {
     })
 }
 
-// spotifyThis function
-song = function songs(value) {
-    if (value == null) {
-        value = 'computer love';
-    }
-    request('https://api.spotify.com/v1/search?q=' + value + '&type=track', function(error, response, body) {
-        if (!error && response.statusCode == 200) {
-            jsonBody = JSON.parse(body);
-            console.log(' ');
-            console.log('Artist: ' + jsonBody.tracks.items[0].artists[0].name);
-            console.log('Song: ' + jsonBody.tracks.items[0].name);
-            console.log('Preview Link: ' + jsonBody.tracks.items[0].preview_url);
-            console.log('Album: ' + jsonBody.tracks.items[0].album.name);
-            console.log(' ');
-            fs.appendFile('terminal.log', ('=============== LOG ENTRY BEGIN ===============\r\n' + Date() +'\r\n \r\nTERMINAL COMMANDS:\r\n$: ' + process.argv + '\r\n \r\nDATA OUTPUT:\r\n' + 'Artist: ' + jsonBody.tracks.items[0].artists[0].name + '\r\nSong: ' + jsonBody.tracks.items[0].name + '\r\nPreview Link: ' + jsonBody.tracks.items[0].preview_url + '\r\nAlbum: ' + jsonBody.tracks.items[0].album.name + '\r\n=============== LOG ENTRY END ===============\r\n \r\n'), function(err) {
-                if (err) throw err;
-            });
-        }
-    });
-} // end spotifyThis function
+
+
 if(myArgs == "do-what-it-says"){
     fs.readFile("random.txt", "utf8", function(error, data){
         if(error){
