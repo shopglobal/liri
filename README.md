@@ -9,8 +9,8 @@ Enjoy your experience with LIRI.
 Here is how to use LIRI:
 ---------------------------------------------------------------------------------------------------
 The [COMMAND] is what you command LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
-pass to LIRI to get what you are looking for. The [ARGUMENTS] will change determine on what you are
-looking for. 
+pass to LIRI to get what you are looking for. The [ARGUMENTS] will change determined by user input based on what you are
+looking for, or trying to do. 
 
 Let's take a look at the processes in Node which handle these queries for the app. . . 
 process.argv = user inputs
@@ -55,7 +55,7 @@ Let's setup a couple of Global Enviornment Variables.
 
 </code>
 
-Establish user input, and determine what input is needed for a proper query with Request.
+Establish user input, and determined by the user input which is needed for a proper query with Request.
 To do this, we must loop through the user inputs like so; 
 <code>
 
