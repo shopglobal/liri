@@ -273,3 +273,90 @@ stop
 ini
 init
 status
+prompt
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 19:9:15
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+tweets
+my-tweets
+my-tweets worldvaporexpo
+tweets
+tweets
+tweets
