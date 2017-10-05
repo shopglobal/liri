@@ -75,7 +75,7 @@ argArray.push(nodeArgs[l]);
 }</code>
 
 # Pre-Installation
-You must have a Spotify API Key & Secret and Also a Twitter Access Token & Secret in order for the functions to work.
+You must have a Spotify API Key & Secret and Also a Twitter Access Token & Secret in order for those functions to work.
 Prior to attemtping installation, visit both site and create your API access tokens in the following manner:
 
 Spotify - save file to root as spotifykeys.js
