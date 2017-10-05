@@ -74,7 +74,36 @@ Take a look at this quick for loop I created which takes in user inputs, and est
 argArray.push(nodeArgs[l]);
 }</code>
 
+# Pre-Installation
+You must have a Spotify API Key & Secret and Also a Twitter Access Token & Secret in order for the functions to work.
+Prior to attemtping installation, visit both site and create your API access tokens in the following manner:
 
+Spotify - save file to root as spotifykeys.js
+<pre>const chalk = require("chalk");
+console.log(chalk.green('Spotify keys loaded'));
+
+var Spotify = require('node-spotify-api');
+var spotifyKeys = new Spotify({
+  id: '6efecb35f43b4d9cb327658373d85422',
+  secret: '3fd0f14a7f454af4888311b0a7689167',
+});
+
+
+module.exports = spotifyKeys;</pre>
+
+Twitter - save file to root as twitterkeys.js
+<pre>const chalk = require("chalk");
+console.log(chalk.green('Twitter keys loaded'));
+var Twitter = require('twitter');
+
+var twitterKeys = new Twitter({
+  consumer_key: 'JyQPJ2obBSXJ7JP7wrrXRFvUV',
+  consumer_secret: 'x6kSqKzUpCoe6NtNVIp9VZwKlaPiBMuD0S34qZTlnsi2Sj8H8r',
+  access_token_key: '912868833244991488-elpRxXlMRzJfR1ck3rfVMYt8iDC2bln',
+  access_token_secret: 'JdjjClWUKvk58R1VJtwBLjbl81OITIJPSQmq7I8BxXyzn',
+});
+
+module.exports = twitterKeys;</pre>
 # Installation
 Clone this repository:
 <code>git clone https://github.com/shopglobal/liri.git</code>
