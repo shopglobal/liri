@@ -253,7 +253,7 @@ ${chalk.red("Checking status of the LIRI bot")}
 ${chalk.green("App Version: "+chalk.yellow(myVersion))}
 ${chalk.green("Latest App Version: "+chalk.yellow(latestVersion))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.blue(" Status: " + chalk.yellow("If you recently updated the source files, make sure you're using the lates code: 'cd liri-update && npm install'" + "\n" + "\nRemember you can always 'node liri' to start the app, or 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
+${chalk.blue(" Status: " + chalk.yellow("If you recently updated the source files, make sure you're using the latest code: 'cd liri-update && npm install'" + "\n" + "\nRemember you can always 'node liri' to start the app, or 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
 ${chalk.blue(" TIPS: " + chalk.yellow("'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
 ${chalk.blue(" Status: Operational. Processes Up-to-Date.  ")}
 `); // end chalk board

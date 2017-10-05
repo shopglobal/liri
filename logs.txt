@@ -2408,3 +2408,25 @@ Error: 'git clone' failed with status 128: You already have the files hosted loc
 Searching for the files...
 Files found in ./liri-quick-update
 You updated LIRI to the most recent version from source!"
+Please use 'node liri prompt' or command liri with a city or place to search, 'node liri weather [name of place]' Error: request failed (404)
+Please use 'node liri prompt' or command liri with a city or place to search, 'node liri weather [name of place]' Error: request failed (404)
+Looking up the weather, near by University of Central Florida, FL, they checked the weather there at 05:10:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 75
+            Humidity: 89
+        Current Wind: 7 mph Northeast
+Looking up the weather, near by Empire State Building, NY, they checked the weather there at 05:15:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 64
+            Humidity: 80
+        Current Wind: 4 mph Southwest
+Looking up the weather, near by Empire State Building, NY, they checked the weather there at 05:15:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 64
+            Humidity: 80
+        Current Wind: 4 mph Southwest
+Looking up the weather, near by Miami Beach, FL, they checked the weather there at 05:20:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 75
+            Humidity: 91
+        Current Wind: 23 mph East

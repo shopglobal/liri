@@ -8,10 +8,10 @@ var moment = require('moment');
 
 var upToDate = false;
 var updated = 0;
-var version = "2.0.5-beta";
+var version = "2.0.6-alpha";
 var myVersion = version;
 
-var liri_version = '2.0.6-stable';
+var liri_version = '2.0.7-stable';
 var latestVersion = liri_version;
 // moment().format();
 var now = moment().format('MMM DD h:mm A');
@@ -249,11 +249,12 @@ ${chalk.green("      / (_)____(_)  / /_  ____  / /")}
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-${chalk.red("Welcome to the LIRI bot")} 
+${chalk.red("Checking status of the LIRI bot")} 
 ${chalk.green("App Version: "+chalk.yellow(myVersion))}
 ${chalk.green("Latest App Version: "+chalk.yellow(latestVersion))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' to install the latest stable App version")}
+${chalk.blue(" Status: " + chalk.yellow("If you recently updated the source files, make sure you're using the latest code: 'cd liri-update && npm install'" + "\n" + "\nRemember you can always 'node liri' to start the app, or 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
+${chalk.blue(" TIPS: " + chalk.yellow("'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
 ${chalk.blue(" Status: Operational. Processes Up-to-Date.  ")}
 `); // end chalk board
 } // end status()
@@ -266,11 +267,9 @@ ${chalk.green("      / (_)____(_)  / /_  ____  / /")}
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-${chalk.red("Welcome to the LIRI bot")} 
+${chalk.red("Initializing the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
-${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Initialized. Ready. ")}
 `); // end chalk board
   status()
@@ -301,6 +300,7 @@ function doCount() {
 }
 function update(){
   doCount();
+  var fileLocation = './liri-update';
   console.log(chalk.red("the update count is " + updated));
   console.log(
 `
@@ -343,15 +343,15 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
 });
   if(process.argv[2] === "update") {
     doCount();
-} var directory = './liri-update';
-  gitClone('https://github.com/shopglobal/liri.git', directory, {
+} 
+  gitClone('https://github.com/shopglobal/liri.git', './liri-update', {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
     console.log(chalk.yellow("Update from source libraries complete!"));
     if (err) {
       status();
-      log(err+ ": You already have the files hosted locally!" + "\n" + "Searching for the files..." + "\n" + "Files found in " + directory);
+      log(err+ ": You already have the files hosted locally!" + "\n" + "Searching for the files..." + "\n" + "Files found in " + fileLocation);
     }
     if(!err) {
       status();
@@ -377,15 +377,18 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
 
 } // end update()
 function quickUpdate(){
+  var fileLocation = './liri-quick-update';
 console.log(chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. "));
 
-  gitClone('https://github.com/shopglobal/liri.git', './liri-master', {
+  gitClone('https://github.com/shopglobal/liri.git', fileLocation, {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
     console.log(chalk.yellow("Update from source libraries complete!"));
     if (err) {
-      console.log(err);
+      doCount();
+      status();
+    log(err+ ": You already have the files hosted locally!" + "\n" + "Searching for the files..." + "\n" + "Files found in " + fileLocation);;
     }
     if(!err) {
     console.log(
@@ -394,8 +397,8 @@ ${chalk.red("Welcome to the LIRI bot")}
 ${chalk.green("Version: "+chalk.yellow(liri_version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest commands")}
-${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; CD node-master && Run 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri help' for the latest commands")}
+${chalk.blue(" Status: " + chalk.yellow("You have updated to the latest version." + liri_version + "; 'cd liri-update && npm install' + " + "\nRemember you can always 'node liri' to start the app, or 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 

@@ -4174,4 +4174,31 @@ User used update()
 update
 init
 init
+init-------- Log Entry --------
+Thu Oct 05 2017 05:35:33 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 05:35:37 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather
+prompt-------- Log Entry --------
+Thu Oct 05 2017 05:35:48 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 05:35:56 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+-------- Log Entry --------
+Thu Oct 05 2017 05:36:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building-------- Log Entry --------
+Thu Oct 05 2017 05:36:08 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami,beach
+
+weather miami beach
+he
+help
 init
