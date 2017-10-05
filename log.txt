@@ -1981,3 +1981,395 @@ help
 help
 help
 help
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 23:50:18
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 4/10/2017 @ 23:50:21
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun May 21 18:45:04 +0000 2017
+World Vapor Expo 2017 presented by @kangerusa kangertech kanger_wholesale is only 88 days away!… https://t.co/67xfp4gzm2
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Thu Jun 23 00:40:59 +0000 2016
+@baddriplabs came to World Vapor Expo and rocked it!! #worldvaporexpo #baddrip @ Miami Beach… https://t.co/vg4BYdmozp
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Wed Jun 15 14:05:41 +0000 2016
+The 2016 World Vapor Expo was incredible!! Thanks to our friends at vaporlifeusa for always… https://t.co/bfeMl7mSHl
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun Jun 12 17:22:40 +0000 2016
+#Repost @WAKEANDVAPE 
+・・・
+"DON'T MOVE MY SH*T"!!!🌴🌴
+@worldvaporexpo #Miami #WeOutHere 😎😤💨💨💨… https://t.co/abiil09kRm
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun Jun 12 16:45:51 +0000 2016
+#LUTN IS BACK AT 1pm!! @lutnofficial #worldvaporexpo @ Miami Beach Convention Center https://t.co/dBSA7kYGDe
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun Jun 12 16:09:49 +0000 2016
+$1 raffle tickets at the door for these sick mods from tid_mods and @th3nvs !!! Come see us 😗💨💨💨 https://t.co/WqwyagZIQR
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun Jun 12 14:21:55 +0000 2016
+Thanks to all the ladies who participated!! #Repost vapemodels 
+・・・
+@camwinans! Congrats to our… https://t.co/Yotrw1FAKp
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sun Jun 12 14:20:03 +0000 2016
+#Repost @oakwoodvapor DAY 3!!
+・・・
+Good morning Miami, we're pumped for a great last day here at… https://t.co/7oDol5h31P
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sat Jun 11 18:46:47 +0000 2016
+It's LIT at @vapesocietysupp booth VIP 29!!! liquidguys @ Miami Beach Convention Center https://t.co/vHqPzcF9ZR
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sat Jun 11 17:34:27 +0000 2016
+#LUTN is here!!!! #worldvaporexpo @lutnofficial https://t.co/CpQDpAGrKM
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sat Jun 11 02:12:59 +0000 2016
+World Vapor Expo x Gilla Inc. our presenting sponsors!!! Official After Party @ The Gale South… https://t.co/RzAznJdJsn
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Sat Jun 11 02:07:31 +0000 2016
+World Vapor Expo x Vapor Life USA @ The Gale Official After Party! #worldvaporexpo https://t.co/kSzHZ9C13N
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 21:23:31 +0000 2016
+After party! Bring your wristbands! #Repost vaporlifeusa 
+・・・
+The official @worldvaporexpo after… https://t.co/ZnoHdFtkDa
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 20:37:02 +0000 2016
+Big thanks to our presenting sponsor Gilla Inc.! craftvapes coilglaze vapewarriors #usamade… https://t.co/tt2FzmhKbS
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 20:34:31 +0000 2016
+#Repost creampufffactory 
+・・・
+Come find your favorite Cream Puff Factory flavors at… https://t.co/sb8rzoFgX2
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 20:33:50 +0000 2016
+#Repost hotcakesejuice 
+・・・
+We are out here fam!
+Hotcakes E-Juice will be exhibiting at the… https://t.co/xRncBhjpPf
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 18:42:38 +0000 2016
+Follow us on snapchat!!! @worldvaporexpo https://t.co/q0eegzU0o6
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 17:16:18 +0000 2016
+@aceofeliquid showed up for World Vapor Expo 2016!! B2B just kicked off. 
+
+#Gilla #ecig… https://t.co/Q7N3WAXd0c
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Fri Jun 10 00:46:08 +0000 2016
+#Repost coilglaze 
+・・・
+coilglaze everything at @worldvaporexpo!
+
+#glazeit #freshlyglazed… https://t.co/U5nCSIhe5T
+
+Log entry created on 4/10/2017 @ 23:50:25
+Posted on Thu Jun 09 22:51:08 +0000 2016
+#Repost @oakwoodvapor 
+・・・
+Hello Miami, thanks for having us! 
+#worldvaporexpo #miami #vapeexpo… https://t.co/veQ83a10tz
+
+
+ 
+Log entry created on 4/10/2017 @ 23:50:28
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+
+ 
+Log entry created on 4/10/2017 @ 23:50:35
+The song MONEY is by the artist PINK FLOYD
+The song appears on the album THE DARK SIDE OF THE MOON
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=6efecb35f43b4d9cb327658373d85422
+
+
+ 
+Log entry created on 4/10/2017 @ 23:50:38
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+
+ 
+Log entry created on 4/10/2017 @ 23:50:45
+The movie title is GUARDIANS OF THE GALAXY
+The film was released in 2014
+It's IMBD Rating is 8.1
+The film was produced in USA, UK
+The film's language is English
+The plot of the movie is A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors in the movie include Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Official Website is http://marvel.com/guardians
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:50:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:50:52 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:52:13 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:53:22 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching Orlando, FL
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:53:47 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+-------- Log Entry --------
+Wed Oct 04 2017 23:53:56 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 
+Here I go...
+-------- Log Entry --------
+Wed Oct 04 2017 23:54:18 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1001
+Here I go...
+-------- Log Entry --------
+Wed Oct 04 2017 23:55:15 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 1001
+Here I go...
+-------- Log Entry --------
+Wed Oct 04 2017 23:56:06 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 10
+Here I go...
+-------- Log Entry --------
+Wed Oct 04 2017 23:57:20 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 10000
+Here I go...
+-------- Log Entry --------
+Wed Oct 04 2017 23:58:40 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 10
+Here I go...
+do-------- Log Entry --------
+Wed Oct 04 2017 23:59:08 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 10
+Here I go...
+countTo 10
+myTwitter-------- Log Entry --------
+Wed Oct 04 2017 23:59:35 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter-------- Log Entry --------
+Wed Oct 04 2017 23:59:50 GMT-0400 (Eastern Daylight Time)
+User used tweets()
+
+twitter worldvaporexpo
+my-tweets-------- Log Entry --------
+Thu Oct 05 2017 00:00:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+songs-------- Log Entry --------
+Thu Oct 05 2017 00:00:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+songs money pink floyd
+spotify-this-song
+spotify-this-song money pink floyd
+song
+song money pink floyd
+song-------- Log Entry --------
+Thu Oct 05 2017 00:02:05 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+songs
+spotify-------- Log Entry --------
+Thu Oct 05 2017 00:02:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+spotify
+spotify money pink floyd-------- Log Entry --------
+Thu Oct 05 2017 00:02:36 GMT-0400 (Eastern Daylight Time)
+User used getSone()

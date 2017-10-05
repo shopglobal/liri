@@ -91,16 +91,16 @@ for(l=0; l<possible.length; l++){
 };// don't forget to add concatenation to separate each of the possiblities with a space for clear definiition.
 switch(command){
   case "twitter":
-  // case "myTwitter":
-  // case "my-tweets":
+  case "myTwitter":
+  case "my-tweets":
     getTweets();
     break;
   case "songs":
-  // case "spotify":
+  case "spotify":
   // case "song":
   case "spotifyThis":
-  // case "spotifyThisSong":
-  // case "spotify-this":
+  case "spotifyThisSong":
+  case "spotify-this":
   // case "spotify-this-song":
     getSong(value);
     break;
@@ -628,8 +628,10 @@ To learn more about this film you can visit
 
 
 
-
 function getWeather(input){
+     if (!input) {
+    input = "University of Central Florida";
+   } 
   // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used getWeather() searching " + input + "\n"));
    // rewriting this line after debugging
    fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used getWeather() searching " + input + "\n"), (err) => {
@@ -640,6 +642,7 @@ function getWeather(input){
     console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
   }
 });
+
   var city = input;
   weather.find({search: input, degreeType: "F"}, function(err, result){
     if(err){
@@ -665,6 +668,11 @@ function getWeather(input){
 
 
 function countTo(input){
+       if (!input) {
+            input = "10";
+            console.log(chalk.yellow("You left this blank, so I filled it in for you. Counting to: " + input ))
+
+   } 
   // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used countTo() to count up to " + input + "\nHere I go..."));
 fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used countTo() to count up to " + input + "\nHere I go..."), (err) => {
   if (err) {
@@ -679,8 +687,9 @@ fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User
     for(i=0; i<target; i++){
       console.log((i+1));
     } // end for()
-    var balance = target * 0.01;
-    log(`Since I did ${target} calculations, your server usage balance is $${balance}.
+    var balance = target * 0.001;
+    log(`
+      Since I did ${target} calculations, your server usage balance is $${balance}.
   I have not been integrated with a credit card machine, Apple Pay, Google Pay, or Venmo API's yet, so I only accept cash.
   Sorry for the inconvenience.`)
   } else {
