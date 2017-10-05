@@ -8,10 +8,10 @@ var moment = require('moment');
 
 var upToDate = false;
 var updated = 0;
-var version = "2.0.5-beta";
+var version = "2.0.6-alpha";
 var myVersion = version;
 
-var liri_version = '2.0.6-stable';
+var liri_version = '2.0.7-stable';
 var latestVersion = liri_version;
 // moment().format();
 var now = moment().format('MMM DD h:mm A');
