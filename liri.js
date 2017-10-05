@@ -354,26 +354,27 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
       console.log(err);
     }
     if(!err) {
-    console.log(
-`
-${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version: "+chalk.yellow(liri_version))}
-${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
-${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; Run 'node liri status' to check version status."))}
-${chalk.red("       ___      _    __          __ ")} 
-${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
-${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
-${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
-${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-`); // end chalk board
+      status();
+//     console.log(
+// `
+// ${chalk.red("Welcome to the LIRI bot")} 
+// ${chalk.green("Version: "+chalk.yellow(liri_version))}
+// ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
+// ${chalk.blue("  -by Mark Evans")}
+// ${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; Run 'node liri status' to check version status."))}
+// ${chalk.red("       ___      _    __          __ ")} 
+// ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+// ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+// ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+// ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+// `); // end chalk board
       } // end !err
   // request(github_url, function(error, response, body){
     else {
       log(`You updated LIRI to the most recent version from source!"`);
     }
   });
-status()
+
 } // end update()
 function quickUpdate(){
 console.log(chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. "));
