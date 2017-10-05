@@ -85,7 +85,7 @@ console.log(chalk.green('Spotify keys loaded'));
 var Spotify = require('node-spotify-api');
 var spotifyKeys = new Spotify({
   id: 'enter-your-spotify-id',
-  secret: 'enter-spotify-secre',
+  secret: 'enter-spotify-secret',
 });
 
 
