@@ -8,10 +8,10 @@ var moment = require('moment');
 
 var upToDate = false;
 var updated = 0;
-var version = "2.0.5-stable";
+var version = "2.0.5-beta";
 var myVersion = version;
 
-var liri_version = '2.0.6-beta';
+var liri_version = '2.0.6-stable';
 var latestVersion = liri_version;
 // moment().format();
 var now = moment().format('MMM DD h:mm A');
@@ -89,7 +89,7 @@ for(l=3; l<nodeArgs.length; l++){
 //         break;
 // }
 // Determine What LIRI is getting asked to do.
-  var possible = ["twitter","myTwitter","my-tweets","songs","spotify","song", "spotifyThis","spotifyThisSong","spotify-this","spotify-this-song","omdb-this","omdb","omdbThis", "movieThis","movies","rando","random","randomThis","random-this","weather", "weather","this-weather","thisWeather","weatherThis","weather-this","weather-get","get-weather", "count", "countTo","countUpTo", "count-to", "latest", "clone","build", "setup", "help","about","status","start","init", "stop", "kill","update"]
+  var possible = ["twitter","myTwitter","my-tweets","songs","spotify","song", "spotifyThis","spotifyThisSong","spotify-this","spotify-this-song","omdb-this","omdb","omdbThis", "movieThis","movies","rando","random","randomThis","random-this","weather", "weather","this-weather","thisWeather","weatherThis","weather-this","weather-get","get-weather", "count", "countTo","countUpTo", "count-to", "latest", "clone","build", "setup", "git", "help","about","status","start","init", "stop", "kill","update"]
 // establish an array from my strings of possible commands^ 
   var possibilities = [];
 // push my strings into the array
@@ -308,7 +308,7 @@ ${chalk.red("Welcome to the LIRI bot")}
 ${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri help' for the latest commands")}
 ${chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. ")}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
@@ -337,22 +337,21 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
   fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used update()\n"), (err) => {
   if (err) {
     log(err);
-  }
-  else {
+  }else {
     console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
   }
 });
-
   if(process.argv[2] === "update") {
     doCount();
-}
-  gitClone('https://github.com/shopglobal/liri.git', './', {
+} var directory = './liri-update';
+  gitClone('https://github.com/shopglobal/liri.git', directory, {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
     console.log(chalk.yellow("Update from source libraries complete!"));
     if (err) {
-      console.log(err);
+      status();
+      log(err+ ": You already have the files hosted locally!" + "\n" + "Searching for the files..." + "\n" + "Files found in " + directory);
     }
     if(!err) {
       status();
@@ -395,7 +394,7 @@ ${chalk.red("Welcome to the LIRI bot")}
 ${chalk.green("Version: "+chalk.yellow(liri_version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest commands")}
 ${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; CD node-master && Run 'node liri help' to check out what you can do with LIRI version: "+ liri_version))}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
@@ -417,8 +416,6 @@ function clone(){
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
-${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Cloning the specified repo: " + github_url + "\n" + " into specified local directory: "+ directory)}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
@@ -426,7 +423,6 @@ ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")}
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 `); // end chalk board
-  // radomTask();
 // fs.readFile("update.txt", "utf8", function(error, data){
 //         if(error){
 //             throw error;
