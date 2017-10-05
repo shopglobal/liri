@@ -1,4 +1,5 @@
-console.log(chalk.green('keys loaded'));
+const chalk = require("chalk");
+console.log(chalk.green('Spotify keys loaded'));
 
 var Spotify = require('node-spotify-api');
 var spotifyKeys = new Spotify({

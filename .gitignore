@@ -1,8 +1,11 @@
 # API Keys
 keys.js
+key.js 
 
-# Published folder 
+# Published folders without dependancies
 published/
+gith/
+versions/
 
 # Logs
 logs

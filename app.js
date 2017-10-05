@@ -4,9 +4,16 @@ var inquirer = require("inquirer");
 var inquire = inquirer;
 var weather = require("weather-js");
 const chalk = require("chalk");
+var moment = require('moment');
+var version = "2.0.2-stable";
+// moment().format();
+var now = moment().format('MMM DD h:mm A');
+var gitClone = require('git-clone');
+var github_url = process.argv[3];
+var directory = process.argv[4];
 
-var Keys = require('./key.js');
-
+var tKeys = require('./twitterkeys.js');
+var sKeys = require('./spotifykeys.js');
 var myArgs = process.argv[2];
 var keyword = process.argv[2];
 var input = process.argv[3];
@@ -75,22 +82,28 @@ for(l=3; l<nodeArgs.length; l++){
 //         break;
 // }
 // Determine What LIRI is getting asked to do.
-
+  var possible = ["twitter","myTwitter","my-tweets","songs","spotify","song", "spotifyThis","spotifyThisSong","spotify-this","spotify-this-song","omdb-this","omdb","omdbThis", "movieThis","movies","rando","random","randomThis","random-this","weather", "weather","this-weather","thisWeather","weatherThis","weather-this","weather-get","get-weather", "count", "countTo","countUpTo", "count-to", "latest", "clone","build", "setup", "help","about","status","start","init", "stop", "kill","update"]
+// establish an array from my strings of possible commands^ 
+  var possibilities = [];
+// push my strings into the array
+for(l=0; l<possible.length; l++){
+    possibilities.push(" " +possible[l]);
+};// don't forget to add concatenation to separate each of the possiblities with a space for clear definiition.
 switch(command){
   case "twitter":
   // case "myTwitter":
   // case "my-tweets":
     getTweets();
     break;
-  // case "songs":
+  case "songs":
   // case "spotify":
   // case "song":
-  // case "spotifyThis":
+  case "spotifyThis":
   // case "spotifyThisSong":
   // case "spotify-this":
   // case "spotify-this-song":
-  //   getSong(value);
-  //   break;
+    getSong(value);
+    break;
   case "omdb-this":
   case "omdb":
   case "omdbThis":
@@ -137,10 +150,29 @@ switch(command){
   case "stop":
   case "kill":
     terminate();
-    break;    
-  case "setup":
-    setup();
     break;
+  case "update":
+  case "upgrade":
+  case "rebuild":
+  case "latest":
+  case "patch":  
+    update();  
+    break;
+  case "clone":
+  case "build":
+  case "install":
+  case "git":    
+    clone();        
+    break;    
+  case "possible":
+  case "print":
+  case "commands": 
+  case "do": 
+    print();       
+    break;    
+  // case "setup":
+  //   setup();
+  //   break;
 } // end switch()
 
 // Functions
@@ -176,55 +208,205 @@ node liri.js spotify-this-song "Money Pink Floyd"
 node liri.js movie-this Guardians of the Galaxy
   This will return a movie with the title Guardians of the Galaxy and give you a quick synopsis of the movie and 
   a link where there to find out more information about the movie.
-`)); // end template string
+`) + "\n" + "Here's a list of the possibliities with your current version: " + chalk.yellow(version) + " of LIRI " + "\n" + "COMMANDS:" + chalk.green(possibilities)); // end template string
 } // end help()
 function about(){
   console.log(
 `
-${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
-${chalk.blue("  -by Mark Evans")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri")}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.blue(" Status: Processes Up-to-Date, running commands utility: ")}
 `); // end chalk board
 } // end about()
 function status(){
   console.log(
 `
-${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
-${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: Operational")}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.blue(" Status: Operational. Processes Up-to-Date.  ")}
 `); // end chalk board
 } // end status()
 function init(){
   console.log(
 `
+${chalk.red("       ___      _    __          __ ")} 
+${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 ${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.blue(" Status: Initialized. Ready. ")}
+`); // end chalk board
+} // end init()
+function print(){
+  console.log(
+`
+${chalk.red("       ___      _    __          __ ")} 
+${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.blue(" Status: Processes Up-to-Date, running commands utility: ")}
+\n`); // end chalk board
+// console.log("possibilities are: " +possibilities);
+// console.log("Here's what's possible with your current version of LIRI: " + chalk.yellow(version) + "" + "\n" + chalk.red(possible)); 
+// after rearranging with an array of possibliities
+console.log("Here's what's possible with your current version of LIRI: " + chalk.yellow(version) + "" + "\n" + chalk.red(possibilities)); 
+} // end print()
+function update(){
+  console.log(
+`
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: Initialized")}
+${chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. ")}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 `); // end chalk board
-} // end init()
+  // add animation above ascii art ToDo 
+  // radomTask();
+// fs.readFile("update.txt", "utf8", function(error, data){
+//         if(error){
+//             throw error;
+//         } else {
+//             var dataArr = data.split(",");
+//             if (dataArr[0] === 'git clone') {
+//                 url = dataArr[1];
+//                 directory = dataArr[2];
+//                 console.log(chalk.red(dataArr[1]));
+//                 console.log(chalk.red(dataArr[2]));
+//                 getUpdate();
+//             }
+//         }
+//     })
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used update()\n"));
+  // rewriting for node 8.6
+  fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used update()\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
+  gitClone('https://github.com/shopglobal/liri.git', './test-checkout', {
+  // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
+},
+  function(err) {
+    console.log(chalk.yellow("Update from source libraries complete!"));
+    if (err) {
+      console.log(err);
+    }
+    if(!err) {
+    console.log(
+`
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.blue("  -by Mark Evans")}
+${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + version + "; Run 'node liri status' to check version status."))}
+${chalk.red("       ___      _    __          __ ")} 
+${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+`); // end chalk board
+      } // end !err
+  // request(github_url, function(error, response, body){
+    else {
+      log(`You updated LIRI to the most recent version from source!"`);
+    }
+  });
+
+} // end update()
+
+function clone(){
+  console.log(
+`
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.blue("  -by Mark Evans")}
+${chalk.blue(" Status: Cloning the specified repo: " + github_url + "\n" + " into local directory: "+ directory)}
+${chalk.red("       ___      _    __          __ ")} 
+${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+`); // end chalk board
+  // radomTask();
+// fs.readFile("update.txt", "utf8", function(error, data){
+//         if(error){
+//             throw error;
+//         } else {
+//             var dataArr = data.split(",");
+//             if (dataArr[0] === 'git clone') {
+//                 url = dataArr[1];
+//                 directory = dataArr[2];
+//                 console.log(chalk.red(dataArr[1]));
+//                 console.log(chalk.red(dataArr[2]));
+//                 getUpdate();
+//             }
+//         }
+//     })
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used update()\n"));
+  // rewriting for node 8.6
+  fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used clone()\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow(chalk.yellow('The "----Logs---" were updated at logs.txt')));
+  }
+});
+  if(!github_url) {
+    github_url = 'https://github.com/shopglobal/liri.git';
+  }
+  if(!directory) {
+    directory = '/test';
+  }
+  gitClone(github_url, "./"+directory, {
+  // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
+},
+  function(err) {
+    console.log("Completed cloning! " + github_url + " to the local folder you specified: " + directory);
+    if(err){
+    console.log(err);
+  // request(github_url, function(error, response, body){
+}   else {
+      var now = moment().format('MMM DD h:mm A');
+      console.log(chalk.red("Log entry created on " + now));
+      log(`DONE!. You cloned the following repo: ${github_url} into your local directory at ${directory}"`);
+      }
+  });
+} // end clone()
 function terminate(){
   console.log(
 `
 ${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version 1.0.3")}
+${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.blue("  -by Mark Evans")}
 ${chalk.blue(" Status: Processes terminated")}
 ${chalk.red("       ___      _    __          __ ")} 
@@ -236,12 +418,30 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
 } // end terminate()
 function log(input){
   console.log(chalk.green(input));
-  fs.appendFile("logs.txt",(input + `\n`));
+  // fs.appendFile("logs.txt",(input + `\n`));
+  // rewriting this line after debugging
+   fs.appendFile("logs.txt",(input + `\n`), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
 } //end log()
 
 function getTweets(){
-  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used tweets()\n"));
-  Keys.get('statuses/user_timeline', params, function(err, tweets,response){
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used tweets()\n"));
+    // rewriting this line after debugging
+   fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used tweets()\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
+  tKeys.get('statuses/user_timeline', params, function(err, tweets,response){
     if(err){
       return log(err);
     }// end if()
@@ -255,29 +455,54 @@ function getTweets(){
       } // end for()
     } // end if
   }); //end feed
-} //end tweets()
+} //end getTweets()
+
+// function getUpdate(input){
+//   fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used update()\n"));
+//   gitClone('https://github.com/shopglobal/liri.git', './test-checkout', {
+//   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
+// },
+//   function(err) {
+//     console.log("complete!");
+//     console.log(err);
+//   // request(github_url, function(error, response, body){
+
+//       log(`You updated LIRI to the most recent version:"`);
+//   });
+// //    }
+// // end getSong()
+// }
 
 function getSong(input){
-  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used song()\n"));
-//     for (var i = 3; i < songParam.length; i++){
-//     if(i > 3 && i < songParam.length){
-//         song = song + "+" + songParam[i];
-//         //console.log(song);
-//     } else{
-//         song += songParam[i];
-//     }
-// }    
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used getSong()\n"));
+   // rewriting this line after debugging
+   fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used getSone()\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
+    for (var i = 3; i < songParam.length; i++){
+    if(i > 3 && i < songParam.length){
+        song = song + "+" + songParam[i];
+        //console.log(song);
+    } else{
+        song += songParam[i];
+    }
+}    
 
-    // if (!song){
-    //         song = "The Sign Ace of Base";
-    //     }
+    if (!song){
+            song = "The Sign Ace of Base";
+        }
 
-var spotify = new Spotify({
-    id: '6efecb35f43b4d9cb327658373d85422',
-    secret: '3fd0f14a7f454af4888311b0a7689167'
-  });
+// var spotify = new Spotify({
+//     id: spotifyID,
+//     secret: spotifySecret,
+//   });
   
-  spotify.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
+  sKeys.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
@@ -287,24 +512,32 @@ var spotify = new Spotify({
         console.log(chalk.green("Preview Link: " + data.tracks.items[0].preview_url));
         console.log(chalk.green("Track: " + data.tracks.items[0].external_urls.spotify));
       var response = data.tracks.items[0];
-
       var artist = response.artists[0].name;
       var title = response.name;
       var album = response.album.name;
       var url = response.preview_url;
-      log(`You searched Spotify for: ${song}
+      log(`\nYou searched Spotify for: ${song}
 ---We searched the web, here is what was found---
 The song ${song} was performed by ${artist}.
 ${artist} released this song on the album "${album}".
-You can listen to ${song} here - ${url}`);
+You can listen to ${song} at this url: - \n${url}`);
    }
-}); // end spotify.search()
-// end spotifySong()
+}); // end Keys.search()
+// end getSong()
 }
 
 
 function getMovie(){
-fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
+// fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"));
+// rewriting for node 8.6
+  fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used movie()\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
 for (var input = 3; input < movieParam.length; input++){
         if(input > 3 && input < movieParam.length){
         movieName = movieName + "+" + movieParam[input];
@@ -397,7 +630,16 @@ To learn more about this film you can visit
 
 
 function getWeather(input){
-  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used weather() searching " + input + "\n"));
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used getWeather() searching " + input + "\n"));
+   // rewriting this line after debugging
+   fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used getWeather() searching " + input + "\n"), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
   var city = input;
   weather.find({search: input, degreeType: "F"}, function(err, result){
     if(err){
@@ -423,7 +665,15 @@ function getWeather(input){
 
 
 function countTo(input){
-  fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used countTo() to count up to " + input + "\nHere I go..."));
+  // fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used countTo() to count up to " + input + "\nHere I go..."));
+fs.appendFile("log.txt",("-------- Log Entry --------\n" + Date() + "\n" + "User used countTo() to count up to " + input + "\nHere I go..."), (err) => {
+  if (err) {
+    log(err);
+  }
+  else {
+    console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
+  }
+});
   var target = parseInt(input);
   if(target > 0){
     for(i=0; i<target; i++){
@@ -477,7 +727,7 @@ function random(){
 } // end random()
 
 if (myArgs == "tweets"){
-Keys.get('statuses/user_timeline', params, function(error, tweets, response){
+tKeys.get('statuses/user_timeline', params, function(error, tweets, response){
         if (error) {
             console.log(error);
         } else{
@@ -491,7 +741,7 @@ Keys.get('statuses/user_timeline', params, function(error, tweets, response){
     })
 }
 if (myArgs == "my-tweets"){
-Keys.get('statuses/user_timeline', params, function(error, tweets, response){
+tKeys.get('statuses/user_timeline', params, function(error, tweets, response){
         if (error) {
             console.log(error);
         } else{
@@ -505,7 +755,7 @@ Keys.get('statuses/user_timeline', params, function(error, tweets, response){
     })
 }
 if (myArgs == "tweets-by"){
-Keys.get('statuses/user_timeline', params, function(error, tweets, response){
+tKeys.get('statuses/user_timeline', params, function(error, tweets, response){
         if (error) {
             console.log(error);
         } else{
@@ -519,7 +769,7 @@ Keys.get('statuses/user_timeline', params, function(error, tweets, response){
     })
 }
 if (myArgs == "get-tweets"){
-Keys.get('statuses/user_timeline', params, function(error, tweets, response){
+tKeys.get('statuses/user_timeline', params, function(error, tweets, response){
         if (error) {
             console.log(error);
         } else{
@@ -547,12 +797,12 @@ if (!song){
             song = "The Sign Ace of Base";
         }
 
-var spotify = new Spotify({
-    id: '6efecb35f43b4d9cb327658373d85422',
-    secret: '3fd0f14a7f454af4888311b0a7689167'
-  });
+// var spotify = new Spotify({
+//     id: spotifyID,
+//     secret: spotifySecret,
+//   });
   
-  spotify.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
+  sKeys.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
@@ -580,12 +830,12 @@ if (!song){
             song = "The Sign Ace of Base";
         }
 
-var spotify = new Spotify({
-    id: '6efecb35f43b4d9cb327658373d85422',
-    secret: '3fd0f14a7f454af4888311b0a7689167'
-  });
+// var spotify = new Spotify({
+//     id: spotifyID,
+//     secret: spotifySecret,
+//   });
   
-  spotify.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
+  sKeys.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
@@ -612,12 +862,12 @@ if (!song){
             song = "The Sign Ace of Base";
         }
 
-var spotify = new Spotify({
-    id: '6efecb35f43b4d9cb327658373d85422',
-    secret: '3fd0f14a7f454af4888311b0a7689167'
-  });
+// var spotify = new Spotify({
+//     id: spotifyID,
+//     secret: spotifySecret,
+//   });
   
-  spotify.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
+  sKeys.search({ type: 'track', query: song, limit: 1 }, function(err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     } else {
@@ -780,6 +1030,9 @@ switch(keyword){
         myArgs = "prompt";
     }
 if(myArgs == "prompt") {
+  console.log(chalk.green('OMDB keys loaded'));
+  console.log(chalk.green('Weather API loaded'));
+  console.log(chalk.green('LIRI bot Initialized'));
     //-------- Prompt user for input-------------------------------------------------
 
 inquirer
@@ -789,6 +1042,7 @@ inquirer
       message: "Please select",
       choices: [
         "Read Mark Evans Tweets",
+        "Read Tweets by [username]",
         "Get Information about a song from Spotify",
         "Get information about a movie from OMDB",
         "Trigger a Random Reaction",
@@ -805,6 +1059,14 @@ inquirer
         return answers.whichAction === "Get Information about a song from Spotify";
       }
     },
+    {
+      type: "input",
+      message: "Enter the name of a Twitter user ",
+      name: "tweet",
+      when: function(answers) {
+        return answers.whichAction === "Read Tweets by [username]";
+      }
+    },    
     {
       type: "input",
       message: "Please enter the name of a movie: ",
@@ -862,7 +1124,29 @@ var lookup = {
 
       "Read Mark Evans Tweets": function() {
         var params = { screen_name: "_devmark", count: "20" };
-        Keys.get("statuses/user_timeline", params, function(error, tweets) {
+        tKeys.get("statuses/user_timeline", params, function(error, tweets) {
+          if (!error) {
+            for (var i = 0; i < tweets.length; i++) {
+              console.log("\n" + tweets[i].created_at);
+              console.log(chalk.green(tweets[i].text + "\n"));
+              lookup.log(
+                "\n" +
+                  lookup.logTime +
+                  "\n" +
+                  "Posted on " +
+                  tweets[i].created_at +
+                  "\n" +
+                  tweets[i].text +
+                  "\n"
+              );
+            }
+          }
+        });
+      },
+      "Read Tweets by [username]": function() {
+        var tweet = user.tweet;
+        var params = { screen_name: tweet, count: "20" };
+        tKeys.get("statuses/user_timeline", params, function(error, tweets) {
           if (!error) {
             for (var i = 0; i < tweets.length; i++) {
               console.log("\n" + tweets[i].created_at);
@@ -885,14 +1169,14 @@ var lookup = {
       //----------------- SPOTIFY ----------------------------
 
       "Get Information about a song from Spotify": function() {
-        var spotify = new Spotify({
-            id: '6efecb35f43b4d9cb327658373d85422',
-            secret: '3fd0f14a7f454af4888311b0a7689167'
-        });        
+        // var spotify = new Spotify({
+        //   id: spotifyID,
+        //   secret: spotifySecret,
+        // });        
         if (!user.song) {
           user.song = "THE SIGN ace of base";
         }
-        spotify.search({ type: "track", query: user.song, limit: 1 }, function(
+        sKeys.search({ type: "track", query: user.song, limit: 1 }, function(
           err,
           data
         ) {
@@ -1068,21 +1352,6 @@ if(myArgs == "do-what-it-says"){
         }
     })
 }
-
-// if(argumentArray == "do-what-it-says"){
-//     fs.readFile("random.txt", "utf8", function(error, data){
-//         if(error){
-//             throw error;
-//         } else {
-//             var dataArray = data.split(",");
-//             if (dataArray[0] === 'spotify-this-song') {
-//                 songName = dataArray[1];
-//                 console.log(dataArray[1]);
-//                 getSpotify();
-//             }
-//         }
-//     })
-// }
 
 // function prompt(){
 //   inquire
