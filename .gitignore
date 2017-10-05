@@ -1,7 +1,7 @@
 # API Keys
-keys.js
-key.js 
-spotifywebKeys.js
+keys.*
+key.*
+spotifywebKeys.*
 
 # Published folders without dependancies
 published/
