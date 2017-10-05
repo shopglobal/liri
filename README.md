@@ -84,8 +84,8 @@ console.log(chalk.green('Spotify keys loaded'));
 
 var Spotify = require('node-spotify-api');
 var spotifyKeys = new Spotify({
-  id: '6efecb35f43b4d9cb327658373d85422',
-  secret: '3fd0f14a7f454af4888311b0a7689167',
+  id: 'enter-your-spotify-id',
+  secret: 'enter-spotify-secre',
 });
 
 
@@ -97,10 +97,10 @@ console.log(chalk.green('Twitter keys loaded'));
 var Twitter = require('twitter');
 
 var twitterKeys = new Twitter({
-  consumer_key: 'JyQPJ2obBSXJ7JP7wrrXRFvUV',
-  consumer_secret: 'x6kSqKzUpCoe6NtNVIp9VZwKlaPiBMuD0S34qZTlnsi2Sj8H8r',
-  access_token_key: '912868833244991488-elpRxXlMRzJfR1ck3rfVMYt8iDC2bln',
-  access_token_secret: 'JdjjClWUKvk58R1VJtwBLjbl81OITIJPSQmq7I8BxXyzn',
+  consumer_key: 'twitter-consumer-key',
+  consumer_secret: 'twitter-consumer-secret',
+  access_token_key: 'twitter-access-token-key',
+  access_token_secret: 'twitter-access-token-secret',
 });
 
 module.exports = twitterKeys;</pre>
