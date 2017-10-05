@@ -300,7 +300,7 @@ function doCount() {
 }
 function update(){
   doCount();
-  var fileLocation = './liri-quick-update';
+  var fileLocation = './liri-update';
   console.log(chalk.red("the update count is " + updated));
   console.log(
 `
