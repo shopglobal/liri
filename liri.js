@@ -695,6 +695,11 @@ To learn more about this film you can visit
 
 
 function getWeather(input){
+         if (!process.argv[3]) {
+            input = "University of Central Florida";
+            console.log(chalk.yellow("You left this blank, so I filled it in for you. Counting to: " + input ))
+
+   } 
      if (!input) {
     input = "University of Central Florida";
    } 
@@ -735,6 +740,11 @@ function getWeather(input){
 
 
 function countTo(input){
+       if (!process.argv[3]) {
+            input = "10";
+            console.log(chalk.yellow("You left this blank, so I filled it in for you. Counting to: " + input ))
+
+   } 
        if (!input) {
             input = "10";
             console.log(chalk.yellow("You left this blank, so I filled it in for you. Counting to: " + input ))

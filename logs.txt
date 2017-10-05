@@ -1901,3 +1901,24 @@ You updated LIRI to the most recent version from source!"
 You updated LIRI to the most recent version from source!"
 You updated LIRI to the most recent version from source!"
 You updated LIRI to the most recent version from source!"
+Please enter a number above 0!
+Please enter a number above 0!
+
+      Since I did 10 calculations, your server usage balance is $0.01.
+  I have not been integrated with a credit card machine, Apple Pay, Google Pay, or Venmo API's yet, so I only accept cash.
+  Sorry for the inconvenience.
+Looking up the weather, near by University of Central Florida, FL, they checked the weather there at 03:15:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 77
+            Humidity: 78
+        Current Wind: 7 mph Northeast
+Looking up the weather, near by Miami Beach, FL, they checked the weather there at 03:15:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 77
+            Humidity: 85
+        Current Wind: 22 mph East
+Looking up the weather, near by Empire State Building, NY, they checked the weather there at 03:20:00 their time and here is what they got.
+    The current weather is :
+         Temperature: 65
+            Humidity: 77
+        Current Wind: 6 mph Southwest
