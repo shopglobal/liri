@@ -2373,3 +2373,1190 @@ spotify
 spotify money pink floyd-------- Log Entry --------
 Thu Oct 05 2017 00:02:36 GMT-0400 (Eastern Daylight Time)
 User used getSone()
+
+help
+status-------- Log Entry --------
+Thu Oct 05 2017 00:07:20 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+upgrade
+do-what-it-says-------- Log Entry --------
+Thu Oct 05 2017 00:09:14 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+random
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:09:27 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:09:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:04 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:05 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:07 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando
+rando
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:14 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:38 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:44 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:45 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:11:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:22 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando
+rando
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:31 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:32 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+rando-------- Log Entry --------
+Thu Oct 05 2017 00:15:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:05 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:12 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:16 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:22 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:43 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:51 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:16:56 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:18:21 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:20:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:20:28 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:20:38 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+
+
+
+
+
+
+
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:48:04 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:49:05 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:49:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:50:37 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:51:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:53:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:55:28 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:56:16 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 00:56:20 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:01:04 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:04:31 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:05:06 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:05:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:06:27 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:06:41 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 5/10/2017 @ 1:7:33
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:07:37 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:07:56 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:33 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:11:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:13:26 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:30 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:14:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:15:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:40 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:16:57 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:17:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:17:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:17:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:17:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:17:42 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:18:09 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:18:09 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:18:09 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:18:09 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:18:09 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:20:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:21:43 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:21:51 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:22:01 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:25:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:10 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:10 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:10 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:10 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:10 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 01:26:24 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:05:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:05:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:06:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:07:31 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:07:31 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:07:31 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:08:14 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:08:14 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+do-what-it-says-------- Log Entry --------
+Thu Oct 05 2017 02:08:54 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+do-what-it-says-------- Log Entry --------
+Thu Oct 05 2017 02:09:00 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:09:04 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:09:04 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:10:15 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:10:15 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:10:36 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:10:36 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:11:13 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+spotify this song-------- Log Entry --------
+Thu Oct 05 2017 02:11:32 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+spotify money pink floyd
+spotify-this-song
+spotify-this-song money pink floyd
+-------- Log Entry --------
+Thu Oct 05 2017 02:11:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:11:55 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:13:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:13:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:13:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:13:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:13:50 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 5/10/2017 @ 2:21:44
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 5/10/2017 @ 2:21:48
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+
+ 
+Log entry created on 5/10/2017 @ 2:21:51
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+
+ 
+Log entry created on 5/10/2017 @ 2:21:54
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:21:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:21:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:21:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:21:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 02:21:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:22:04 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:22:08 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:22:12 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+-------- Log Entry --------
+Thu Oct 05 2017 02:22:15 GMT-0400 (Eastern Daylight Time)
+User used countTo() to count up to 23
+Here I go...
+hel
+help-------- Log Entry --------
+Thu Oct 05 2017 02:22:30 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:22:51 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:23:07 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:25:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:25:08 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:25:46 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:25:57 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:26:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:26:15 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:26:34 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:26:42 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami
+prompt-------- Log Entry --------
+Thu Oct 05 2017 02:26:54 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+-------- Log Entry --------
+Thu Oct 05 2017 02:27:18 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather
+prompt-------- Log Entry --------
+Thu Oct 05 2017 02:27:28 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+-------- Log Entry --------
+Thu Oct 05 2017 02:27:33 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:27:39 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather miami beach
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:27:46 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:27:58 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+-------- Log Entry --------
+Thu Oct 05 2017 02:28:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:28:12 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+-------- Log Entry --------
+Thu Oct 05 2017 02:29:27 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:29:31 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:29:46 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 02:29:51 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:29:57 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather miami florida-------- Log Entry --------
+Thu Oct 05 2017 02:30:14 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami,florida
+
+weather miami florida-------- Log Entry --------
+Thu Oct 05 2017 02:30:22 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:30:34 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 02:34:48 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+upgrade-------- Log Entry --------
+Thu Oct 05 2017 02:42:37 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+upgrade-------- Log Entry --------
+Thu Oct 05 2017 02:48:49 GMT-0400 (Eastern Daylight Time)
+User used clone()
+
+clone
+status-------- Log Entry --------
+Thu Oct 05 2017 02:59:27 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 02:59:47 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:00:17 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:00:38 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:03:05 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:05:29 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:06:29 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update https://github.com/shopglobal/liri.git
+update-------- Log Entry --------
+Thu Oct 05 2017 03:07:08 GMT-0400 (Eastern Daylight Time)
+User used update()
+-------- Log Entry --------
+Thu Oct 05 2017 03:11:19 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:11:22 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:11:24 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:11:26 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:11:27 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:11:29 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update-------- Log Entry --------
+Thu Oct 05 2017 03:12:54 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update
+status
+status
+status
+status
+status-------- Log Entry --------
+Thu Oct 05 2017 03:18:15 GMT-0400 (Eastern Daylight Time)
+User used update()
+
+update
+status
+init
+status

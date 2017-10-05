@@ -5,7 +5,14 @@ var inquire = inquirer;
 var weather = require("weather-js");
 const chalk = require("chalk");
 var moment = require('moment');
-var version = "2.0.2-stable";
+
+var upToDate = false;
+var updated = 0;
+var version = "2.0.5-stable";
+var myVersion = version;
+
+var liri_version = '2.0.6-beta';
+var latestVersion = liri_version;
 // moment().format();
 var now = moment().format('MMM DD h:mm A');
 var gitClone = require('git-clone');
@@ -119,13 +126,13 @@ switch(command){
     random();
     break;
   case "weather":
-  case "weather":
   case "this-weather":
   case "thisWeather":
   case "weatherThis":
   case "weather-this":
   case "weather-get":
   case "get-weather":
+
     getWeather(value);
     break;
   case "count":
@@ -220,12 +227,21 @@ ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")}
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
 ${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Processes Up-to-Date, running commands utility: ")}
 `); // end chalk board
 } // end about()
 function status(){
+  if(upToDate === true) {
+    var latestVersion = liri_version;
+    var myVersion = latestVersion;
+  }
+  else if (upToDate === false) {
+    var myVersion = version;
+    var latestVersion = liri_version;
+  }
   console.log(
 `
 ${chalk.red("       ___      _    __          __ ")} 
@@ -234,13 +250,15 @@ ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")}
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 ${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("App Version: "+chalk.yellow(myVersion))}
+${chalk.green("Latest App Version: "+chalk.yellow(latestVersion))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
-${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
+${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' to install the latest stable App version")}
 ${chalk.blue(" Status: Operational. Processes Up-to-Date.  ")}
 `); // end chalk board
 } // end status()
 function init(){
+  quickUpdate();
   console.log(
 `
 ${chalk.red("       ___      _    __          __ ")} 
@@ -250,6 +268,7 @@ ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")}
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
 ${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Initialized. Ready. ")}
@@ -265,6 +284,7 @@ ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")}
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
 ${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Processes Up-to-Date, running commands utility: ")}
@@ -274,11 +294,18 @@ ${chalk.blue(" Status: Processes Up-to-Date, running commands utility: ")}
 // after rearranging with an array of possibliities
 console.log("Here's what's possible with your current version of LIRI: " + chalk.yellow(version) + "" + "\n" + chalk.red(possibilities)); 
 } // end print()
+function doCount() {
+    updated++;
+    upToDate = true;    
+}
 function update(){
+  doCount();
+  console.log(chalk.red("the update count is " + updated));
   console.log(
 `
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.blue("  -by Mark Evans")}
 ${chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. ")}
 ${chalk.red("       ___      _    __          __ ")} 
@@ -313,7 +340,11 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
     console.log(chalk.yellow('The "----Logs---" were updated at logs.txt'));
   }
 });
-  gitClone('https://github.com/shopglobal/liri.git', './test-checkout', {
+
+  if(process.argv[2] === "update") {
+    doCount();
+}
+  gitClone('https://github.com/shopglobal/liri.git', './liri-origin', {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
@@ -325,9 +356,10 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
     console.log(
 `
 ${chalk.red("Welcome to the LIRI bot")} 
-${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Version: "+chalk.yellow(liri_version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + version + "; Run 'node liri status' to check version status."))}
+${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; Run 'node liri status' to check version status."))}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
@@ -342,14 +374,47 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
   });
 
 } // end update()
+function quickUpdate(){
+console.log(chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. "));
 
+  gitClone('https://github.com/shopglobal/liri.git', './liri-origin-master', {
+  // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
+},
+  function(err) {
+    console.log(chalk.yellow("Update from source libraries complete!"));
+    if (err) {
+      console.log(err);
+    }
+    if(!err) {
+    console.log(
+`
+${chalk.red("Welcome to the LIRI bot")} 
+${chalk.green("Version: "+chalk.yellow(liri_version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
+${chalk.blue("  -by Mark Evans")}
+${chalk.blue(" Status: " + chalk.yellow("Updated to the latest version." + liri_version + "; Run 'node liri status' to check version status."))}
+${chalk.red("       ___      _    __          __ ")} 
+${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
+${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
+${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
+${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
+`); // end chalk board
+      } // end !err
+  // request(github_url, function(error, response, body){
+    else {
+      log(`You updated LIRI to the most recent version from source!"`);
+    }
+      });
+} // end err
+ 
 function clone(){
   console.log(
 `
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.blue("  -by Mark Evans")}
-${chalk.blue(" Status: Cloning the specified repo: " + github_url + "\n" + " into local directory: "+ directory)}
+${chalk.blue(" Status: Cloning the specified repo: " + github_url + "\n" + " into specified local directory: "+ directory)}
 ${chalk.red("       ___      _    __          __ ")} 
 ${chalk.green("      / (_)____(_)  / /_  ____  / /")} 
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
@@ -407,6 +472,7 @@ function terminate(){
 `
 ${chalk.red("Welcome to the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
+${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.blue("  -by Mark Evans")}
 ${chalk.blue(" Status: Processes terminated")}
 ${chalk.red("       ___      _    __          __ ")} 
@@ -516,11 +582,11 @@ function getSong(input){
       var title = response.name;
       var album = response.album.name;
       var url = response.preview_url;
-      log(`\nYou searched Spotify for: ${song}
+      log(`\nYou searched Spotify for: ${data.tracks.items[0].name}
 ---We searched the web, here is what was found---
-The song ${song} was performed by ${artist}.
+The song ${data.tracks.items[0].name} was performed by ${artist}.
 ${artist} released this song on the album "${album}".
-You can listen to ${song} at this url: - \n${url}`);
+You can listen to ${song} at this url: - \n${url}\n`);
    }
 }); // end Keys.search()
 // end getSong()
@@ -644,6 +710,7 @@ function getWeather(input){
 });
 
   var city = input;
+
   weather.find({search: input, degreeType: "F"}, function(err, result){
     if(err){
       console.log(err);
@@ -1267,17 +1334,91 @@ var lookup = {
       //----------------- RANDOM ----------------------------
 
       "Trigger a Random Reaction": function() {
-        fs.readFile("random.txt", "UTF8", function(error, data) {
+        // fs.readFile("random.txt", "UTF8", function(error, data) {
           // action = data[0];
-          // user.song = data[1];
-            var dataArr = data.split(',');
-                      if (dataArr[0] === 'spotify-this-song') {
-                song = dataArr[1];
-                console.log(dataArr[1]);
-                getSong();
-            }
+          // // user.song = data[1];
+          //   var dataArr = data.split(',');
+                      // if (dataArr[0] === 'spotify-this-song') {
+                // song = dataArr[1];
+                function Songs(isSong, command, song) {
+                this.isSong = isSong;
+                this.command = command;
+                this.song = song;
+                this.theSongs = function() {
+            if (this.command === 'spotify-this-song') {
+              var command = this.command;
+              var song = this.song;
+              console.log(chalk.blue(song));
+              console.log(chalk.blue(command));
+           // establish an array from the songs songs  
+            var songArr = [];
+            var theSongs = [song1.song + " " + song2.song + " " + song3.song + " " + song4.song + " " + song5.song]
+          
+          // push songs into the array
+            for(l=0; l<song.length; l++){
+            songArr.push(song[l]); 
+              }
+              // song = songArr[1];
+              // console.log(songsArr[1]);
+              // getSong();
+              console.log(chalk.red(songArr));                         
+      console.log("this.isSong: " + this.isSong + "\n" + "this.command: " + this.command + "\n" + "this.song: " + this.song + "\n" );
+    }
+  };
+}
+
+// sets the variables "dogs" and "cats" to be animal objects and initializes them with raining and noise properties
+          var song1 = new Songs(true, "spotify-this-song", "I want it that way");
+          var song2 = new Songs(true, "spotify-this-song", "Money Pink Floyd");
+          var song3 = new Songs(true, "spotify-this-song", "Clubbed To Death");
+          var song4 = new Songs(true, "spotify-this-song", "Mindfields Prodigy");
+          var song5 = new Songs(true, "spotify-this-song", "Ramona Sublime");
+
+// calling dogs and cats makeNoise methods
+console.log(chalk.yellow(song1.song));
+song1.theSongs();
+song = song1.song;
+getSong(song1.song);
+
+console.log(chalk.yellow(song2.song));
+song2.theSongs();
+song = song2.song;
+getSong(song2.song);
+
+console.log(chalk.yellow(song3.song));
+song3.theSongs();
+song = song3.song;
+getSong(song3.song);
+
+console.log(chalk.yellow(song4.song));
+song4.theSongs();
+song = song4.song;
+getSong(song4.song);
+
+console.log(chalk.yellow(song5.song));
+// console.log(chalk.yellow(song5.command));
+song5.theSongs();
+song = song5.song;
+getSong(song5.song);
+
+            
+// if we want, we can change an objects properties after they're created                
+
+          // // establish an array from the songs songs  
+          //   var songArr = [];
+          //   var songsArr = [song1.song + " " + song2.song + " " + song3.song + " " + song4.song + " " + song5.song]
+          // // push songs into the array
+          //   for(l=0; l<song.length; l++){
+          //   songArr.push(" , " +song[l]); 
+          //     }
+
+
+                // console.log(dataArr[1]);
+                // console.log(songsArr);
+                // getSong();
+            // }
           // lookup[action]();
-        });
+        // });
       }
 }; // End of lookup object
 ""

@@ -31,6 +31,7 @@
     "node-spotify-api": "^1.0.7",
     "prompt": "^1.0.0",
     "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
     "twitter": "^1.7.1",
     "weather-js": "^2.0.0"
   }
