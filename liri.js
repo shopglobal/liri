@@ -273,6 +273,7 @@ ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
 ${chalk.red("Pull from official repo: https://github.com/shopglobal/liri or run 'node liri update' for the latest stable version")}
 ${chalk.blue(" Status: Initialized. Ready. ")}
 `); // end chalk board
+  status()
 } // end init()
 function print(){
   console.log(
@@ -372,7 +373,7 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
       log(`You updated LIRI to the most recent version from source!"`);
     }
   });
-
+status()
 } // end update()
 function quickUpdate(){
 console.log(chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. "));
