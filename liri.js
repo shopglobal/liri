@@ -249,7 +249,7 @@ ${chalk.green("      / (_)____(_)  / /_  ____  / /")}
 ${chalk.blue("     / / / ___/ /  / __ \/ __ \/ __/ ")} 
 ${chalk.red("    / / / /  / /  / /_/ / /_/ / /  ")} 
 ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")} 
-${chalk.red("Checking status of the LIRI bot")} 
+${chalk.red("Welcome to the the LIRI bot")} 
 ${chalk.green("App Version: "+chalk.yellow(myVersion))}
 ${chalk.green("Latest App Version: "+chalk.yellow(latestVersion))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
@@ -301,10 +301,11 @@ function doCount() {
 function update(){
   doCount();
   var fileLocation = './liri-update';
-  console.log(chalk.red("the update count is " + updated));
+  // console.log(chalk.red("the update count is " + updated));
+  console.log(chalk.red("The LIRI platform is being updated: " + chalk.yellow(upToDate)));
   console.log(
 `
-${chalk.red("Welcome to the LIRI bot")} 
+${chalk.red("Checking status of the LIRI bot")} 
 ${chalk.green("Version: "+chalk.yellow(version))}
 ${chalk.green("Latest App Version: "+chalk.yellow(liri_version))}
 ${chalk.red(" Maintained by Mark Evans <evansmark.work@gmail.com>")}
@@ -344,7 +345,7 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
   if(process.argv[2] === "update") {
     doCount();
 } 
-  gitClone('https://github.com/shopglobal/liri.git', './liri-update', {
+  gitClone('https://github.com/shopglobal/liri.git', fileLocation, {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {

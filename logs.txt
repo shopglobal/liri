@@ -2430,3 +2430,31 @@ Looking up the weather, near by Miami Beach, FL, they checked the weather there 
          Temperature: 75
             Humidity: 91
         Current Wind: 23 mph East
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-quick-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-update
+You updated LIRI to the most recent version from source!"
+Error: 'git clone' failed with status 128: You already have the files hosted locally!
+Searching for the files...
+Files found in ./liri-quick-update
+You updated LIRI to the most recent version from source!"
