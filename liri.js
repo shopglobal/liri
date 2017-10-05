@@ -378,7 +378,7 @@ status()
 function quickUpdate(){
 console.log(chalk.blue(" Status: Initialized. Preparing for LIRI Platform Upgrade. "));
 
-  gitClone('https://github.com/shopglobal/liri.git', './liri-origin-master', {
+  gitClone('https://github.com/shopglobal/liri.git', './', {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
