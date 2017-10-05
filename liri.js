@@ -344,7 +344,7 @@ ${chalk.green("   /_/_/_/  /_/  /_.___/\____/\__/  ")}
   if(process.argv[2] === "update") {
     doCount();
 }
-  gitClone('https://github.com/shopglobal/liri.git', './liri-origin', {
+  gitClone('https://github.com/shopglobal/liri.git', './', {
   // checkout: 'a76362b0705d4126fa4462916cabb2506ecfe8e2' 
 },
   function(err) {
