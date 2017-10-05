@@ -3589,3 +3589,496 @@ Thu Oct 05 2017 03:36:25 GMT-0400 (Eastern Daylight Time)
 User used getWeather() searching empire,state,building
 
 weather empire state building
+init
+init
+init
+init
+init
+init
+init
+init
+init
+init
+init
+init
+init
+init
+help
+status-------- Log Entry --------
+Thu Oct 05 2017 03:59:02 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 03:59:12 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami,beach
+
+weather miami beach
+prompt
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:10:37 +0000 2017
+Tweet #20, I'm in this is cool @Twitter
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:10:22 +0000 2017
+Almost done
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:10:15 +0000 2017
+This must be #18
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:09:48 +0000 2017
+Tweet #16
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:10:06 +0000 2017
+Almost at #18
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:09:26 +0000 2017
+Getting used to using Twitter, never saw that coming @Twitter
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:08:51 +0000 2017
+Getting there
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:09:10 +0000 2017
+Putting in the time so I won't have to when I'm 40
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:08:32 +0000 2017
+Running @nodejs on @Windows
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:08:02 +0000 2017
+Working on it..
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:08:07 +0000 2017
+Tweet #10
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:09:00 +0000 2017
+Working on a few more
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:06:58 +0000 2017
+@nodejs We're loving it
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:07:56 +0000 2017
+Almost there
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:06:39 +0000 2017
+It's not broken yet
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 02:39:47 +0000 2017
+"This just works"
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:07:26 +0000 2017
+The best is yet to come
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 03:06:47 +0000 2017
+Tweet #5
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 02:39:39 +0000 2017
+Technology is great
+
+Log entry created on 5/10/2017 @ 3:59:18
+Posted on Wed Sep 27 02:39:29 +0000 2017
+This is a tweet
+
+prompt
+ 
+Log entry created on 5/10/2017 @ 3:59:21
+The song THE SIGN is by the artist ACE OF BASE
+The song appears on the album THE SIGN (US ALBUM) [REMASTERED]
+To preview on Spotify, command+click the link below: 
+
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6efecb35f43b4d9cb327658373d85422
+
+prompt
+ 
+Log entry created on 5/10/2017 @ 3:59:24
+The movie title is MR. NOBODY
+The film was released in 2009
+It's IMBD Rating is 7.9
+The film was produced in Belgium, Germany, Canada, France, USA, UK
+The film's language is English, Mohawk
+The plot of the movie is A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie include Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Official Website is http://www.magpictures.com/mrnobody/
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 03:59:27 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 03:59:34 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 03:59:44 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:09:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:09:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:09:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:09:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:09:52 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:10:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:29 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:10:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:10:47 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:12:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:12:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:12:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:12:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:12:02 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:12:28 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:12:55 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:13:00 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt
+prompt
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:19:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:19:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:19:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:19:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+-------- Log Entry --------
+Thu Oct 05 2017 04:19:58 GMT-0400 (Eastern Daylight Time)
+User used getSone()
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:20:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:20:07 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:20:16 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+-------- Log Entry --------
+Thu Oct 05 2017 04:20:37 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:20:43 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami,beach
+
+weather miami beach-------- Log Entry --------
+Thu Oct 05 2017 04:20:55 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building
+status-------- Log Entry --------
+Thu Oct 05 2017 04:31:51 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:32:24 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:32:32 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:32:42 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:33:08 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+-------- Log Entry --------
+Thu Oct 05 2017 04:33:13 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:33:21 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:33:23 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:33:26 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:33:29 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:34:39 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:34:45 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami
+-------- Log Entry --------
+Thu Oct 05 2017 04:34:54 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+-------- Log Entry --------
+Thu Oct 05 2017 04:35:45 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:35:59 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:37:50 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:38:42 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:38:55 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:39:00 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:39:07 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building
+-------- Log Entry --------
+Thu Oct 05 2017 04:39:18 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+-------- Log Entry --------
+Thu Oct 05 2017 04:39:23 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+-------- Log Entry --------
+Thu Oct 05 2017 04:39:29 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+-------- Log Entry --------
+Thu Oct 05 2017 04:39:39 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:39:42 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:39:48 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building-------- Log Entry --------
+Thu Oct 05 2017 04:40:25 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building-------- Log Entry --------
+Thu Oct 05 2017 04:40:27 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:29 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:31 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:34 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:36 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:38 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:40:41 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching s
+
+weather s-------- Log Entry --------
+Thu Oct 05 2017 04:40:45 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching ss
+
+weather ss-------- Log Entry --------
+Thu Oct 05 2017 04:40:50 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:41:05 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:42:05 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:42:26 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:42:29 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:43:02 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:43:46 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:44:24 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:44:31 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:44:55 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:45:01 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+-------- Log Entry --------
+Thu Oct 05 2017 04:45:14 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:45:22 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:45:27 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:47:00 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami
+
+weather miami-------- Log Entry --------
+Thu Oct 05 2017 04:47:03 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+weather
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:47:12 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:47:18 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:47:33 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:47:41 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire state building
+
+prompt-------- Log Entry --------
+Thu Oct 05 2017 04:48:19 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching University of Central Florida
+-------- Log Entry --------
+Thu Oct 05 2017 04:48:25 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching 
+
+weather-------- Log Entry --------
+Thu Oct 05 2017 04:48:37 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching miami,beach
+
+weather miami beach-------- Log Entry --------
+Thu Oct 05 2017 04:48:47 GMT-0400 (Eastern Daylight Time)
+User used getWeather() searching empire,state,building
+
+weather empire state building

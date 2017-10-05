@@ -701,11 +701,16 @@ To learn more about this film you can visit
 
 
 function getWeather(input){
-   //       if (!process.argv[3]) {
-   //          input = "University of Central Florida";
-   //          console.log(chalk.yellow("You left this blank, so I filled it in for you. Searching weather near by: " + input ))
+          if(process.argv[2] === prompt){
+            city = user.input;
+            prompt = true;
+          }
 
-   // } 
+         if (prompt === false && !process.argv[3]) {
+            input = "University of Central Florida";
+            console.log(chalk.yellow("You left this blank, so I filled it in for you. Searching weather near by: " + input ))
+            // console.log("this is user.input" + user.search);
+   } 
      if (!input) {
     input = "University of Central Florida";
    } 
@@ -724,7 +729,7 @@ function getWeather(input){
 
   weather.find({search: input, degreeType: "F"}, function(err, result){
     if(err){
-      log("Please use 'node liri prompt' or command liri with a city or place to search, 'node liri weather [name of place]' "+err);
+      console.log(err);
     } else {
       var pretty = JSON.stringify(result, null, 2);
       var data = result[0].current;
